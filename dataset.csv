@@ -1,301 +1,901 @@
-Producto,Reseña,Sentimiento
-MacBook Air M4,"El chip M4 es una bestia en eficiencia, la batería me dura casi dos días de uso ligero sin cargar.",Positivo
-MacBook Air M4,El rendimiento es excelente como siempre pero el diseño no ha cambiado nada respecto al modelo anterior.,Neutro
-MacBook Air M4,Se calienta muchísimo con tareas básicas y el sistema reduce la potencia a la mitad para no quemarse.,Negativo
-Lenovo Legion LOQ 15,La mejor relación calidad-precio de 2026 corre juegos triple A sin despeinarse y el enfriamiento es sólido.,Positivo
-Lenovo Legion LOQ 15,"Tiene mucha potencia para juegos, pero los ventiladores son demasiado ruidosos incluso en tareas básicas.",Neutro
-Lenovo Legion LOQ 15,La placa base murió a los dos meses de uso y el servicio técnico de Lenovo ha sido una pesadilla total.,Negativo
-ASUS ROG Zephyrus G14,"Increíble que tanta potencia quepa en 14 pulgadas, la pantalla OLED tiene unos colores que parecen de otro mundo.",Positivo
-ASUS Zenbook S 13,La pantalla OLED es preciosa aunque la falta de puertos USB-A me obliga a cargar con adaptadores siempre.,Neutro
-ASUS ROG Zephyrus G14,Pantalla con fugas de luz horribles en las esquinas para lo que cuesta es una falta de respeto al cliente.,Negativo
-HP OmniBook 7 Aero,"Súper ligera, pesa menos de un kilo y para viajar es la compañera perfecta sin sacrificar puertos esenciales.",Positivo
-HP Pavilion 15,"Es una laptop funcional para la oficina, pero el cuerpo de plástico se siente algo frágil al tacto.",Neutro
-HP Pavilion 15,El teclado dejó de funcionar de la nada y el chasis de plástico cruje cada vez que la abro o la cierro.,Negativo
-Dell XPS 14 (2026),El diseño es simplemente futurista el cristal del trackpad se siente premium y la construcción es impecable.,Positivo
-Dell XPS 13 (2026),Estéticamente es una joya pero la fila de teclas táctiles sigue siendo menos intuitiva que las físicas.,Neutro
-Dell XPS 13 (2026),La falta de puertos es ridícula y el adaptador oficial falló a la semana me arrepiento de la compra.,Negativo
-Acer Nitro V 15,Sorprendido con el rendimiento de la RTX 4050 por este precio ideal para estudiantes que también juegan.,Positivo
-Acer Nitro V 15,Las especificaciones son buenas por el precio pero la batería apenas llega a las 4 horas con uso moderado.,Neutro
-Acer Nitro V 15,Los ventiladores hacen un ruido insoportable incluso en reposo y la batería no dura ni dos horas.,Negativo
-Samsung Galaxy Book4 Pro,La integración con el ecosistema Galaxy es perfecta la pantalla táctil responde de maravilla y es muy delgada.,Positivo
-Samsung Galaxy Book4,"Se sincroniza bien con mi celular, aunque el precio me parece elevado para los componentes que ofrece.",Neutro
-Samsung Galaxy Book4,La pantalla se estrelló sola sin recibir ningún golpe el cristal es extremadamente frágil y delgado.,Negativo
-Lenovo ThinkPad X1 Carbon,El teclado sigue siendo el rey absoluto para escribir código la durabilidad de este equipo no tiene competencia.,Positivo
-Microsoft Surface Laptop 7,La construcción es sólida pero Windows en ARM todavía tiene pequeños problemas de compatibilidad con apps viejas.,Neutro
-Lenovo ThinkPad X1 Carbon,El software de actualización de drivers bloqueó mi laptop y tuve que reinstalar todo desde cero.,Negativo
-HP Victus 15,Estética sobria que no grita gamer pero con potencia de sobra para edición de video pesada y multitarea.,Positivo
-MSI Modern 15,Muy ligera y cómoda para transportar pero la pantalla tiene poco brillo para usarla cerca de ventanas.,Neutro
-HP Victus 15,"La bisagra es tan inestable que la pantalla baila con solo escribir, se siente como un juguete barato.",Negativo
-MSI Katana 15 HX,"Un rendimiento bruto impresionante para renderizado, el procesador i7 de nueva generación vuela en todo.",Positivo
-Gigabyte G5,"El rendimiento en juegos es decente, pero se calienta bastante rápido llegando a temperaturas preocupantes.",Neutro
-MSI Katana 15 HX,"El rendimiento es bueno pero la calidad de los materiales es pésima, el plástico se raya con solo mirarlo.",Negativo
-MacBook Pro 16 M4 Pro,"La herramienta definitiva para profesionales creativos, el brillo de la pantalla en HDR es simplemente espectacular.",Positivo
-ASUS TUF Gaming A15,"Es un equipo muy resistente y duradero, pero la fidelidad de color de la pantalla deja mucho que desear.",Neutro
-MacBook Pro 16 M4 Pro,Empezó a mostrar pixeles muertos al mes de uso y Apple dice que no entra en la garantía limitada.,Negativo
-ASUS TUF Gaming F15,"Se siente como un tanque, la certificación militar me da mucha confianza para llevarla a todos lados.",Positivo
-Lenovo IdeaPad Slim 3,"Cumple bien para tareas escolares básicas, pero no esperes que sea rápida con muchas pestañas abiertas.",Neutro
-ASUS TUF Gaming F15,Se apaga sola por sobrecalentamiento cuando juego el sistema de enfriamiento es totalmente insuficiente.,Negativo
-Acer Swift Edge 16,"Pantalla 4K OLED en un chasis tan liviano parece magia, ver contenido multimedia aquí es una experiencia única.",Positivo
-HP Victus 16,La pantalla es grande y fluida pero el balanceo de la tapa es algo molesto cuando escribes rápido.,Neutro
-Acer Swift Edge 16,"La batería es una broma, no dura ni una película completa en Netflix sin tener que conectarla.",Negativo
-Huawei MateBook D16,El formato de pantalla 1610 ayuda muchísimo a la productividad puedo ver más líneas de Excel sin scroll.,Positivo
-Acer Swift Go 14,Muy portátil y veloz aunque la calidad de la cámara web es bastante mediocre para videoconferencias.,Neutro
-Huawei MateBook D16,"El Wi-Fi se desconecta constantemente y es imposible trabajar así, he probado de todo y nada funciona.",Negativo
-Microsoft Surface Laptop 7,El acabado en aluminio es de los mejores Windows 11 corre con una fluidez que no había visto antes.,Positivo
-Dell Inspiron 14,"Es una laptop confiable para el día a día, pero el ventilador se enciende por cualquier proceso mínimo.",Neutro
-Microsoft Surface Laptop 7,El cargador dejó de funcionar y conseguir uno original es carísimo y difícil en mi país.,Negativo
-Razer Blade 16,Cara pero vale cada centavo por la calidad de construcción y la potencia gráfica que maneja sin calentarse.,Positivo
-MacBook Pro 14 M4,"Es una máquina increíble, pero para la mayoría de los usuarios la diferencia con la Air no justifica el gasto.",Neutro
-Razer Blade 16,"La batería se infló a los 10 meses y deformó todo el trackpad, es un peligro constante.",Negativo
-Framework Laptop 16,"Me encanta la filosofía de poder reparar y actualizar todo yo mismo, el rendimiento es muy competitivo además.",Positivo
-Razer Blade 14,El diseño y materiales son de diez pero la vida útil de la batería ha bajado notablemente tras seis meses.,Neutro
-Framework Laptop 16,Demasiados errores de software con los módulos paso más tiempo arreglando fallos que trabajando.,Negativo
-Lenovo Yoga Slim 7,Muy versátil y elegante el sistema de sonido es sorprendentemente potente para un equipo tan compacto.,Positivo
-Lenovo ThinkPad E14,El teclado es excelente para escribir pero el diseño se siente muy anticuado comparado con otros modelos.,Neutro
-Lenovo Yoga Slim 7,"Los altavoces empezaron a distorsionar el sonido al poco tiempo, la calidad de audio es decepcionante.",Negativo
-HP Omen Max 16,El diseño minimalista en negro mate es hermoso y la tarjeta gráfica RTX 5080 es simplemente imparable.,Positivo
-Huawei MateBook D14,Tiene un look muy limpio similar a una Mac pero conseguir soporte técnico oficial es complicado en mi zona.,Neutro
-HP Omen Max 16,"El trackpad se queda pegado y no hace clic bien, un fallo de diseño básico en un equipo tan caro.",Negativo
-Acer Aspire 5,Silenciosa y eficiente para tareas de oficina por el precio que pagué no creo que exista algo mejor hoy.,Positivo
-LG Gram 16,Es impresionantemente ligera para su tamaño aunque el chasis tiene mucha flexibilidad y da algo de miedo.,Neutro
-Acer Aspire 5,Es lentísima incluso para abrir una carpeta el disco duro o el procesador vienen defectuosos de fábrica.,Negativo
-MacBook Air M4,El diseño sin ventilador es una maravilla puedo trabajar en total silencio incluso con varias apps abiertas.,Positivo
-Acer Aspire 5,Funciona bien para tareas básicas pero el trackpad se siente algo impreciso y de plástico barato.,Neutro
-ASUS Vivobook 15,"La pantalla tiene un tinte amarillento que no se quita con nada, cansa la vista en menos de una hora.",Negativo
-Dell G15 Gaming,Excelente gestión térmica para sesiones largas de juego el software Alienware Command Center ayuda mucho.,Positivo
-ASUS ROG Strix G16,La potencia es bruta para juegos aunque el bloque de alimentación es gigantesco y pesa casi como la laptop.,Neutro
-Dell G15 Gaming,El software de Alienware que trae preinstalado consume toda la RAM y hace que Windows se trabe.,Negativo
-ASUS Vivobook S 15,La pantalla OLED es vibrante y los bordes son casi existentes lo que la hace muy inmersiva para películas.,Positivo
-HP Envy x360,El modo tablet es útil ocasionalmente pero el equipo es demasiado pesado para sostenerlo con una mano mucho tiempo.,Neutro
-HP Envy x360,La pantalla táctil dejó de responder en la mitad derecha justo después de que se venció la garantía.,Negativo
-Lenovo IdeaPad Slim 5,"Una laptop de entrada muy sólida, el chasis de aluminio se siente mucho más caro de lo que realmente cuesta.",Positivo
-Dell Latitude 5440,Una laptop de trabajo estándar que cumple su función sin destacar en pantalla ni en sonido.,Neutro
-Lenovo IdeaPad 3,El procesador es tan básico que se congela solo con tener tres pestañas de Chrome abiertas.,Negativo
-HP Envy x360 14,La bisagra es muy firme y el modo tablet es extremadamente útil para tomar notas con el stylus incluido.,Positivo
-Lenovo Yoga 7i,La pantalla táctil es muy sensible y buena pero el acabado brillante refleja demasiado la luz en interiores.,Neutro
-MSI Stealth 14,"El teclado se calienta tanto que literalmente quema los dedos al jugar, es imposible de usar así.",Negativo
-MSI Stealth 14,"Potencia de gama alta en un cuerpo ultra compacto, ideal para quienes necesitamos rendimiento en movimiento.",Positivo
-MSI Katana 17,El tamaño de pantalla es genial para visibilidad pero la calidad de los plásticos cruje un poco al moverla.,Neutro
-Acer Predator Helios,"Los puertos USB empezaron a fallar uno por uno, ahora solo me queda uno que funcione a veces.",Negativo
-Acer Predator Helios Neo,El teclado RGB es espectacular y las velocidades del SSD son de las más rápidas que he probado este año.,Positivo
-MacBook Pro 16 M4,Es la mejor laptop que he tenido pero el precio es prohibitivo para alguien que no edita video profesionalmente.,Neutro
-Gigabyte Aorus 15,La retroiluminación del teclado parpadea constantemente y el soporte técnico no me da ninguna solución.,Negativo
-Gigabyte Aorus 15,"Una pantalla con tasa de refresco altísima, jugar shooters en esta laptop es una ventaja competitiva real.",Positivo
-Microsoft Surface Pro 11,El hardware es excelente pero tener que comprar el teclado por separado a ese precio me parece excesivo.,Neutro
-Samsung Galaxy Book4,El trackpad es errático y el cursor salta de un lado a otro sin que yo lo toque es desesperante.,Negativo
-Samsung Galaxy Book4 Ultra,"La pantalla Dynamic AMOLED 2X es la mejor del mercado actual, los negros son perfectos y el contraste increíble.",Positivo
-Samsung Galaxy Book4 Pro,Muy delgada y estética aunque tiende a calentarse de más cuando se conecta a un monitor externo.,Neutro
-LG Gram 17,Es tan flexible que si la sostienes de una esquina la pantalla se apaga parece que se va a romper.,Negativo
-LG Gram 17,Es increíblemente ligera para su tamaño de 17 pulgadas parece que llevas un cuaderno en la mochila.,Positivo
-Acer Predator Helios Neo,Rendimiento sólido en gaming pero el software de control de luces es bastante inestable y se cierra solo.,Neutro
-MacBook Pro 14 M4,El puerto MagSafe viene flojo y se desconecta con cualquier movimiento mínimo mala calidad de armado.,Negativo
-ASUS Zenbook Duo (2026),La doble pantalla ha cambiado totalmente mi flujo de trabajo es el futuro de la productividad multitarea.,Positivo
-ASUS Vivobook 15,Buena para estudiantes por su ligereza pero la batería no llega a cubrir una jornada completa de clases.,Neutro
-ASUS TUF Gaming A15,"La tarjeta de red Wi-Fi es de pésima calidad, tengo el router al lado y solo me marca una barra.",Negativo
-MacBook Pro 14 M4,El tamaño de 14 pulgadas es el equilibrio perfecto entre portabilidad y potencia bruta para edición 8K.,Positivo
-HP Chromebook x360,Muy rápida para navegar en Chrome pero te sientes muy limitado si necesitas instalar software local pesado.,Neutro
-HP Pavilion Plus 14,Los ventiladores empezaron a hacer un chirrido metálico horrible a las dos semanas de uso diario.,Negativo
-Lenovo Legion 7i,"El acabado metálico es impecable y no se ensucia con las huellas, un equipo gaming muy elegante.",Positivo
-Lenovo ThinkBook 16,El formato de pantalla es cómodo para trabajar pero el brillo máximo es insuficiente para usarla en exteriores.,Neutro
-Lenovo Legion 5,El recubrimiento del chasis se está pelando y la laptop se ve vieja a pesar de tener solo tres meses.,Negativo
-HP Pavilion Plus 14,"Muy buena cámara web de 5MP, las videollamadas se ven nítidas incluso en condiciones de poca luz.",Positivo
-Dell G16 Gaming,Corre todo en ultra pero es sumamente ruidosa parece que va a despegar incluso con juegos poco exigentes.,Neutro
-Microsoft Surface Pro 11,El sistema se queda pegado en la pantalla de inicio y tengo que forzar el apagado casi todos los días.,Negativo
-Acer Swift Go 14,"La duración de la batería me sorprendió gratamente, paso toda la jornada de oficina sin buscar el cargador.",Positivo
-Razer Blade 16,Es una joya de ingeniería pero el servicio al cliente de la marca sigue siendo un dolor de cabeza si falla algo.,Neutro
-Dell Inspiron 14,"El sonido es bajísimo, incluso al 100% apenas se escucha nada si hay un poco de ruido ambiental.",Negativo
-Microsoft Surface Pro 10,"Como dispositivo 2 en 1 no tiene rival, la respuesta del lápiz óptico es instantánea y muy natural.",Positivo
-LG Gram Style,El diseño es único y hermoso pero las huellas dactilares se quedan marcadas por todo el chasis al instante.,Neutro
-Acer Swift Go 14,"La cámara web tiene una calidad de hace 10 años, se ve todo granulado incluso con buena iluminación.",Negativo
-Razer Blade 14,"El trackpad de cristal es enorme y muy preciso, la mejor experiencia de navegación en Windows.",Positivo
-MSI Stealth 14,Muy potente para su tamaño aunque la batería desaparece en menos de dos horas si no estás cerca de un enchufe.,Neutro
-Razer Blade 14,Se sobrecalienta tanto que se activan las protecciones y se apaga de golpe perdiendo todo mi trabajo.,Negativo
-Alienware m16 R2,El nuevo modo sigilo es genial para usarla en la universidad sin llamar la atención con luces y ruido.,Positivo
-Framework Laptop 13,Me encanta la idea de repararla yo mismo pero el precio inicial es más alto que laptops con mejores specs.,Neutro
-Alienware m16 R2,Es pesadísima y el transformador parece un ladrillo es una tortura tener que llevarla en la mochila.,Negativo
-Dynabook Portege X30,"Súper segura con el lector de huellas y reconocimiento facial, ideal para manejo de datos sensibles.",Positivo
-ASUS ROG Flow Z13,Es un concepto innovador de tablet gaming pero el teclado plegable se siente algo endeble para escribir mucho.,Neutro
-Dynabook Portege,"El lector de huellas nunca funciona a la primera, siempre tengo que terminar poniendo la contraseña.",Negativo
-Lenovo Legion Slim 5,"Una gran opción balanceada, no es tan pesada como otras gaming y el rendimiento en renderizado es fluido.",Positivo
-Lenovo IdeaPad Flex 5,Cumple como convertible económico pero la bisagra hace ruidos extraños después de unos meses de uso.,Neutro
-MSI Modern 15,"La bisagra se rompió por dentro y ahora la pantalla no se queda fija, se va hacia atrás sola.",Negativo
-ASUS ExpertBook B9,"El peso es ridículo, parece una maqueta de lo liviana que es, perfecta para consultores que viajan diario.",Positivo
-MacBook Air M4,El paso a 16GB de RAM base es justo pero sigue siendo molesto que cobren tanto por subir el almacenamiento.,Neutro
-ASUS Vivobook 15,"La pantalla tiene un tinte amarillento que no se quita con nada, cansa la vista en menos de una hora.",Negativo
-HP Spectre x360 14,El diseño de las esquinas cortadas sigue siendo el más elegante del mercado y la pantalla 2.8K se ve de lujo.,Positivo
-HP EliteBook 840,Muy buena para videollamadas y oficina aunque el audio de los altavoces suena algo metálico y sin bajos.,Neutro
-Dell G15 Gaming,El software de Alienware que trae preinstalado consume toda la RAM y hace que Windows se trabe.,Negativo
-Dell Latitude 7450,"Una herramienta de trabajo infalible, la conectividad 5G integrada es súper estable en zonas sin Wi-Fi.",Positivo
-Lenovo Legion Slim 5,El rendimiento es equilibrado pero el acabado gris mate se raya con mucha facilidad en la mochila.,Neutro
-HP Envy x360,La pantalla táctil dejó de responder en la mitad derecha justo después de que se venció la garantía.,Negativo
-MacBook Air M4,El puerto MagSafe me ha salvado de varios accidentes es un detalle que se agradece en el uso diario.,Positivo
-ASUS Zenbook 14 OLED,La pantalla es lo mejor del equipo pero el sistema de reconocimiento facial falla cuando hay poca luz.,Neutro
-Lenovo IdeaPad 3,El procesador es tan básico que se congela solo con tener tres pestañas de Chrome abiertas.,Negativo
-Lenovo IdeaPad Gaming 3,"Para ser una laptop de entrada, el teclado tiene un recorrido muy cómodo y no se siente de plástico barato.",Positivo
-Acer Swift Edge 16,Es increíblemente delgada para ser de 16 pulgadas pero la autonomía de la batería es bastante mediocre.,Neutro
-MSI Stealth 14,"El teclado se calienta tanto que literalmente quema los dedos al jugar, es imposible de usar así.",Negativo
-Acer Spin 5,"La precisión del stylus en esta pantalla es comparable a tabletas de dibujo profesionales, muy recomendada.",Positivo
-Dell Vostro 3530,Un equipo de batalla para el trabajo diario aunque la pantalla tiene ángulos de visión muy limitados.,Neutro
-Acer Predator Helios,"Los puertos USB empezaron a fallar uno por uno, ahora solo me queda uno que funcione a veces.",Negativo
-Samsung Galaxy Book4 Pro 360,Los colores son muy profundos y el brillo es suficiente para trabajar en exteriores sin reflejos molestos.,Positivo
-Samsung Galaxy Book4 Ultra,Potente y con pantalla hermosa pero el ventilador emite un silbido agudo que llega a ser molesto.,Neutro
-Gigabyte Aorus 15,La retroiluminación del teclado parpadea constantemente y el soporte técnico no me da ninguna solución.,Negativo
-MSI Prestige 16,"Una laptop para creadores muy equilibrada, el puerto SD de tamaño completo es un alivio para fotógrafos.",Positivo
-MSI Prestige 16,Buena para diseño gráfico ligero pero el trackpad es demasiado grande y a veces detecta toques accidentales.,Neutro
-Samsung Galaxy Book4,El trackpad es errático y el cursor salta de un lado a otro sin que yo lo toque,Negativo
-Microsoft Surface Go 4,Pequeña pero matona para tomar notas en la universidad y leer PDFs es el dispositivo más cómodo que existe.,Positivo
-Huawei MateBook X Pro,El hardware es de primer nivel pero la falta de garantía extendida en mi país me genera desconfianza.,Neutro
-LG Gram 17,Es tan flexible que si la sostienes de una esquina la pantalla se apaga parece que se va a romper.,Negativo
-Gigabyte Aero 16 OLED,La calibración de color de fábrica es perfecta ideal para edición fotográfica sin tener que ajustar nada extra.,Positivo
-Microsoft Surface Go 4,Ideal para viajes cortos y correos pero se siente muy lenta si intentas abrir más de 5 pestañas en Edge.,Neutro
-MacBook Pro 14 M4,"El puerto MagSafe viene flojo y se desconecta con cualquier movimiento mínimo, mala calidad de armado.",Negativo
-ASUS Vivobook Go 15,Súper económica y cumple perfectamente con clases en línea y navegación web la batería rinde bastante.,Positivo
-Gigabyte Aero 16,Colores precisos para fotógrafos pero el teclado tiene una distribución extraña a la que cuesta acostumbrarse.,Neutro
-ASUS TUF Gaming A15,"La tarjeta de red Wi-Fi es de pésima calidad, tengo el router al lado y solo me marca una barra.",Negativo
-HP EliteBook 1040,"El teclado es muy silencioso, puedo escribir en reuniones sin molestar a nadie, además de ser muy segura.",Positivo
-ASUS ROG Ally X,Como PC portátil es potente pero Windows 11 todavía no se siente totalmente optimizado para pantallas táctiles.,Neutro
-HP Pavilion Plus 14,Los ventiladores empezaron a hacer un chirrido metálico horrible a las dos semanas de uso diario.,Negativo
-Lenovo ThinkBook 14p,El sensor de huellas es instantáneo y la integración con Teams mediante botones dedicados es muy útil.,Positivo
-Lenovo ThinkPad X1 Carbon,Sigue siendo la mejor laptop empresarial pero el precio sube cada año sin innovaciones realmente grandes.,Neutro
-Lenovo Legion 5,El recubrimiento del chasis se está pelando y la laptop se ve vieja a pesar de tener solo tres meses.,Negativo
-Dell Vostro 3530,Un equipo básico pero robusto el soporte técnico de Dell siempre responde rápido ante cualquier duda.,Positivo
-HP Omen 16,Muy buen enfriamiento pero el diseño es demasiado genérico y parece una laptop de oficina de hace 5 años.,Neutro
-Microsoft Surface Pro 11,El sistema se queda pegado en la pantalla de inicio y tengo que forzar el apagado casi todos los días.,Negativo
-Razer Blade 18,Básicamente una PC de escritorio portátil el sistema de audio es el más potente que he escuchado en una laptop.,Positivo
-Dell Inspiron 16,Pantalla amplia para trabajar desde casa pero el cargador es muy estorboso y pesado para transportarlo.,Neutro
-Dell Inspiron 14,"El sonido es bajísimo, incluso al 100% apenas se escucha nada si hay un poco de ruido ambiental.",Negativo
-Acer Aspire Vero,Me encanta que usen materiales reciclados se siente sólida y el software de ahorro de energía funciona bien.,Positivo
-Acer Spin 3,Es funcional como 2 en 1 pero la pantalla tiene demasiados reflejos incluso en interiores con luz media.,Neutro
-Acer Swift Go 14,"La cámara web tiene una calidad de hace 10 años, se ve todo granulado incluso con buena iluminación.",Negativo
-LG Gram Style,"El acabado que cambia de color con la luz es precioso, es la laptop más bonita que he tenido en años.",Positivo
-LG Gram 17,La ligereza es imbatible pero los puertos USB-C se sienten algo flojos después de poco tiempo de uso.,Neutro
-Razer Blade 14,Se sobrecalienta tanto que se activan las protecciones y se apaga de golpe perdiendo todo mi trabajo.,Negativo
-Panasonic Toughbook 55,Literalmente indestructible la hemos usado en obras de construcción bajo la lluvia y sigue como nueva.,Positivo
-MacBook Pro 14 M4 Pro,Puertos suficientes y potencia de sobra pero el notch en la pantalla sigue estorbando en la barra de menús.,Neutro
-Alienware m16 R2,Es pesadísima y el transformador parece un ladrillo es una tortura tener que llevarla en la mochila.,Negativo
-MacBook Pro 16 M4 Max,Renderizar video en 8K es una tarea sencilla para este equipo el tiempo de exportación se redujo a la mitad.,Positivo
-MSI Cyborg 15,Estética cyberpunk interesante pero la calidad de construcción es casi toda de plástico y se siente hueca.,Neutro
-Dynabook Portege,"El lector de huellas nunca funciona a la primera, siempre tengo que terminar poniendo la contraseña.",Negativo
-MSI Alpha 17,La combinación de procesador y gráfica AMD da un rendimiento excelente en multitarea y juegos pesados.,Positivo
-Razer Blade 18,Una pantalla gigante y hermosa pero es tan grande que no cabe en la mayoría de las mochilas estándar.,Neutro
-MSI Modern 15,"La bisagra se rompió por dentro y ahora la pantalla no se queda fija, se va hacia atrás sola.",Negativo
-ASUS ProArt Studiobook 16,El dial físico integrado es una joya para editar en Premiere agiliza el flujo de trabajo una barbaridad.,Positivo
-ASUS Vivobook S 15,El teclado retroiluminado es cómodo pero la luz se filtra por los lados de las teclas y distrae de noche.,Neutro
-ASUS Vivobook 15,"La pantalla tiene un tinte amarillento que no se quita con nada, cansa la vista en menos de una hora.",Negativo
-Lenovo Legion Slim 7,El equilibrio perfecto entre una laptop de oficina y una gaming no pesa tanto y rinde de maravilla.,Positivo
-Lenovo LOQ 16,Una opción sólida para presupuestos medios aunque los altavoces suenan bastante bajo incluso al máximo.,Neutro
-Dell G15 Gaming,El software de Alienware que trae preinstalado consume toda la RAM y hace que Windows se trabe.,Negativo
-HP Dragonfly G4,La mejor laptop para ejecutivos la conectividad es impecable y el diseño en azul pizarra es muy profesional.,Positivo
-HP Envy 17,Pantalla enorme ideal para ver películas pero el tamaño la hace muy difícil de manejar en aviones o trenes.,Neutro
-HP Envy x360,La pantalla táctil dejó de responder en la mitad derecha justo después de que se venció la garantía.,Negativo
-Acer Swift X 14,Una pequeña bestia con gráfica dedicada a un precio muy contenido ideal para estudiantes de ingeniería.,Positivo
-Dell XPS 14 (2026),La pantalla OLED es espectacular pero solo tener puertos USB-C es una decisión que sigue siendo molesta.,Neutro
-Lenovo IdeaPad 3,El procesador es tan básico que se congela solo con tener tres pestañas de Chrome abiertas.,Negativo
-"MacBook Air M4 (15"")",El tamaño de pantalla extra sin el peso de la Pro es justo lo que necesitaba para trabajar en el café.,Positivo
-MacBook Air M4,El color medianoche es hermoso pero es un imán de huellas dactilares y siempre parece estar sucia.,Neutro
-MSI Stealth 14,"El teclado se calienta tanto que literalmente quema los dedos al jugar, es imposible de usar así.",Negativo
-Dell XPS 13 (2026),La pantalla de borde a borde sigue siendo la más impresionante del mercado la calidad de imagen es insuperable.,Positivo
-Acer Swift X 14,Rendimiento gráfico decente en un cuerpo pequeño pero se calienta mucho en la zona donde descansas las manos.,Neutro
-Acer Predator Helios,"Los puertos USB empezaron a fallar uno por uno, ahora solo me queda uno que funcione a veces.",Negativo
-MSI Summit E13 Flip,El diseño convertible es muy elegante y el soporte para lápiz es muy preciso para firmas y esquemas rápidos.,Positivo
-MSI Katana 15,El teclado numérico es útil pero las teclas son algo pequeñas y es fácil cometer errores al escribir.,Neutro
-Gigabyte Aorus 15,La retroiluminación del teclado parpadea constantemente y el soporte técnico no me da ninguna solución.,Negativo
-Samsung Galaxy Book4 Edge,El procesador Snapdragon X Elite vuela y la batería dura una eternidad Windows en ARM por fin es increíble.,Positivo
-Samsung Galaxy Book4 Edge,Muy veloz para tareas de oficina pero muchos juegos de Steam aún no funcionan bien con este procesador.,Neutro
-Samsung Galaxy Book4,El trackpad es errático y el cursor salta de un lado a otro sin que yo lo toque es desesperante.,Negativo
-ASUS ROG Strix SCAR 18,Una auténtica bestia que reemplaza mi PC de escritorio el sistema de iluminación es el mejor que he visto.,Positivo
-ASUS ROG Zephyrus G16,Diseño elegante que no parece gamer pero la memoria RAM viene soldada y no se puede ampliar después.,Neutro
-LG Gram 17,Es tan flexible que si la sostienes de una esquina la pantalla se apaga parece que se va a romper.,Negativo
-HP Chromebook Plus,Para ser una Chromebook es rapidísima abre todo al instante y la pantalla tiene una nitidez sorprendente.,Positivo
-HP Pavilion Plus 14,La resolución de pantalla es muy buena pero el ventilador hace un ruido agudo incluso instalando actualizaciones.,Neutro
-MacBook Pro 14 M4,El puerto MagSafe viene flojo y se desconecta con cualquier movimiento mínimo mala calidad de armado.,Negativo
-Lenovo IdeaPad Flex 5,Muy versátil para ver series en modo tienda y luego trabajar la relación calidad-precio es imbatible.,Positivo
-Lenovo IdeaPad Gaming 3,Muy económica pero la pantalla tiene una reproducción de color muy pobre para cualquier trabajo creativo.,Neutro
-ASUS TUF Gaming A15,"La tarjeta de red Wi-Fi es de pésima calidad, tengo el router al lado y solo me marca una barra.",Negativo
-Surface Laptop Studio 2,El mecanismo de la pantalla es único y muy útil para ilustradores la potencia gráfica me dejó sin palabras.,Positivo
-Microsoft Surface Laptop Go 3,El diseño es adorable y muy portable pero no tener teclado retroiluminado a este precio es inaceptable.,Neutro
-HP Pavilion Plus 14,Los ventiladores empezaron a hacer un chirrido metálico horrible a las dos semanas de uso diario.,Negativo
-Alienware x14 R2,Es increíblemente delgada para ser una Alienware cabe en cualquier mochila y corre todo en ultra.,Positivo
-Alienware m16 R2,Potencia de sobra para todo pero el software Alienware Command Center sigue siendo lento y se traba.,Neutro
-Lenovo Legion 5,El recubrimiento del chasis se está pelando y la laptop se ve vieja a pesar de tener solo tres meses.,Negativo
-Acer TravelMate P6,Muy resistente para el trabajo de campo la batería aguanta turnos largos sin problemas de sobrecalentamiento.,Positivo
-Acer TravelMate P2,Una laptop de oficina cumplidora y con muchos puertos pero la pantalla se ve muy lavada y sin contraste.,Neutro
-Microsoft Surface Pro 11,El sistema se queda pegado en la pantalla de inicio y tengo que forzar el apagado casi todos los días.,Negativo
-LG Gram Pro,Tener una pantalla de 144Hz en una laptop que casi no pesa es un lujo para la vista en el uso diario.,Positivo
-LG Gram Pro 16,El rendimiento es fluido para multitarea pero el trackpad se siente algo esponjoso al hacer clic.,Neutro
-Dell Inspiron 14,"El sonido es bajísimo, incluso al 100% apenas se escucha nada si hay un poco de ruido ambiental.",Negativo
-MacBook Pro 14 (M4),El color Negro Espacial es precioso y apenas se nota el desgaste la potencia del modelo base es suficiente.,Positivo
-MacBook Pro 16 M4 Max,Es la computadora perfecta pero pesa lo suficiente como para que te canses de cargarla todo el día.,Neutro
-Acer Swift Go 14,"La cámara web tiene una calidad de hace 10 años, se ve todo granulado incluso con buena iluminación.",Negativo
-ASUS Zenbook S 13 OLED,"Es tan delgada que parece un iPad, pero con la potencia de una laptop completa, la ingeniería aquí es de diez.",Positivo
-ASUS Zenbook Duo,La segunda pantalla es útil pero reduce mucho el espacio para apoyar las muñecas al escribir.,Neutro
-Razer Blade 14,Se sobrecalienta tanto que se activan las protecciones y se apaga de golpe perdiendo todo mi trabajo.,Negativo
-HP ZBook Studio G10,Una estación de trabajo certificada que no parece un ladrillo excelente para renders pesados de arquitectura.,Positivo
-HP Spectre x360,Los accesorios incluidos son de calidad pero la batería dura mucho menos si usas la pantalla a máxima resolución.,Neutro
-Alienware m16 R2,Es pesadísima y el transformador parece un ladrillo es una tortura tener que llevarla en la mochila.,Negativo
-Lenovo LOQ 16,El teclado es muy cómodo y el rendimiento en juegos competitivos como Valorant es súper estable.,Positivo
-Lenovo ThinkPad L14,Muy resistente para el trabajo rudo pero la pantalla base de 250 nits es casi imposible de ver con luz solar.,Neutro
-Dynabook Portege,"El lector de huellas nunca funciona a la primera, siempre tengo que terminar poniendo la contraseña.",Negativo
-Dell Inspiron 16 Plus,La pantalla grande de 16 pulgadas es ideal para multitarea sin necesidad de un monitor externo adicional.,Positivo
-Dell G15 Gaming,El rendimiento térmico ha mejorado pero el diseño sigue siendo muy tosco y utiliza demasiado plástico.,Neutro
-MSI Modern 15,"La bisagra se rompió por dentro y ahora la pantalla no se queda fija, se va hacia atrás sola.",Negativo
-MacBook Air M4,El ecosistema de Apple hace que todo sea más fácil la transición entre el iPhone y la Mac es mágica.,Positivo
-MacBook Air M4,El rendimiento por watt es insuperable pero la limitación de conectar solo dos monitores externos sigue ahí.,Neutro
-MacBook Air M4,El puerto USB-C del lado izquierdo dejó de reconocer dispositivos a los dos meses reparación carísima.,Negativo
-Razer Blade 15,Es la laptop con mejor diseño estético del mercado la iluminación Chroma es totalmente personalizable y fluida.,Positivo
-Razer Blade 15,Estética impecable y minimalista pero la fuente de poder se calienta tanto que quema al tocarla.,Neutro
-Lenovo Legion 7i,"La iluminación RGB de la base empezó a fallar y ahora parpadea en rojo sin razón, el software no lo arregla.",Negativo
-ASUS Vivobook 16,"Por este precio, tener una pantalla de 16 pulgadas con tan buena fidelidad de color es un regalo.",Positivo
-ASUS Vivobook 16,Pantalla amplia y cómoda para leer pero los materiales se sienten menos duraderos que en la línea Zenbook.,Neutro
-ASUS Vivobook 16,La bisagra es tan dura que tienes que usar las dos manos para abrirla o sientes que vas a partir el marco.,Negativo
-Lenovo Yoga 9i,La de sonido de la barra de sonido en la bisagra es espectacular la mejor experiencia de audio en una laptop.,Positivo
-Lenovo Yoga 9i,La barra de sonido suena genial pero el mecanismo de rotación se siente un poco flojo tras meses de uso.,Neutro
-HP Omen Max 16,El rendimiento cae a la mitad si no está conectada a la corriente incluso con el plan de energía en máximo.,Negativo
-HP Elite Dragonfly,La función de privacidad de la pantalla con un solo botón es genial para trabajar en lugares públicos.,Positivo
-HP Elite Dragonfly,Excelente para seguridad empresarial pero el precio es ridículamente alto comparado con una MacBook Pro.,Neutro
-Dell XPS 16 (2026),La superficie de cristal del reposamuñecas se mancha de grasa permanentemente es imposible mantenerla limpia.,Negativo
-Acer Predator Triton,El sistema de ventiladores AeroBlade mantiene la temperatura bajo control incluso en los juegos más exigentes.,Positivo
-Acer Predator Triton,Es delgada para ser gaming pero eso hace que los ventiladores tengan que girar al máximo y hagan mucho ruido.,Neutro
-Acer Predator Helios,La fuente de poder hace un ruido eléctrico agudo muy molesto que se escucha en toda la habitación.,Negativo
-Microsoft Surface Pro 11,La actualización de la pantalla a 120Hz hace que usar el lápiz se sienta igual que escribir en papel.,Positivo
-Microsoft Surface Pro 11,El teclado Flex es muy cómodo pero la conexión magnética a veces se suelta si no estás en una mesa plana.,Neutro
-Microsoft Surface Laptop 7,La pantalla es un imán de reflejos es imposible usarla en una oficina con luces led sin quedar ciego.,Negativo
-MSI Modern 14,Muy compacta y elegante en color azul es la laptop ideal para llevar a la biblioteca todos los días.,Positivo
-MSI Modern 14,Diseño elegante y compacto pero el rendimiento cae notablemente cuando se usa solo con la batería.,Neutro
-MSI Alpha 17,El teclado se siente esponjoso y las teclas se quedan trabadas a veces muy mala calidad de construcción.,Negativo
-Dell XPS 16 (2026),La potencia de procesamiento para compilar código es impresionante ahorro mucho tiempo en mi flujo diario.,Positivo
-Dell XPS 16 (2026),La potencia es increíble para renderizado pero el teclado con teclas pegadas requiere una curva de aprendizaje.,Neutro
-Samsung Galaxy Book4 Pro,"El Wi-Fi tiene un alcance bajísimo, a dos habitaciones del router pierdo la señal por completo.",Negativo
-Framework Laptop 13,"Me encanta poder cambiar los puertos según lo que necesite, es la laptop más lógica que he comprado.",Positivo
-Framework Laptop 16,La idea de los módulos es brillante pero el ensamblaje final no se siente tan rígido como una laptop unibody.,Neutro
-Framework Laptop 16,Los ventiladores emiten un sonido vibrante que indica un mal rodamiento de fábrica control de calidad pobre.,Negativo
-Samsung Galaxy Book5 Pro,La integración con las tablets de Samsung para usar como segundo monitor funciona sin ningún retraso.,Positivo
-Samsung Galaxy Book5 Pro,Muy ligera para su tamaño pero el software preinstalado de Samsung ocupa demasiado espacio innecesario.,Neutro
-ASUS ROG Flow Z13,La batería dura menos de una hora jugando básicamente es una PC de escritorio con una pantalla pegada.,Negativo
-ASUS ROG Flow X13,Poder convertir una laptop gamer en tablet es algo que no sabía que necesitaba hasta que la probé.,Positivo
-ASUS ROG Flow X13,"Es un concepto 2 en 1 único, pero la duración de la batería en modo tablet es bastante decepcionante.",Neutro
-Lenovo ThinkPad P1,"Se calienta tanto bajo carga que el sistema se apaga por seguridad, no sirve para trabajos pesados largos.",Negativo
-Lenovo ThinkPad P1,Una estación de trabajo certificada para CAD que es sorprendentemente delgada y ligera para su potencia.,Positivo
-Lenovo ThinkPad P1,Una workstation muy capaz pero el cargador propietario es enorme y difícil de conseguir si se rompe.,Neutro
-HP Pavilion Aero,"El trackpad es tan pequeño que navegar por la pantalla es frustrante, además de ser muy ruidoso al clic.",Negativo
-HP Pavilion Aero,La laptop más ligera que he tenido el rendimiento del procesador Ryzen es excelente para productividad.,Positivo
-HP Pavilion Aero,Pesa menos de un kilo lo cual es fantástico pero el trackpad es pequeño y se siente algo inestable.,Neutro
-LG Gram Pro,"El audio por audífonos tiene un siseo constante, parece un problema de aislamiento en la placa base.",Negativo
-LG Gram SuperSlim,Es increíblemente delgada literalmente desaparece en la mochila y la pantalla OLED es un sueño.,Positivo
-LG Gram SuperSlim,La delgadez es impactante pero debido a eso el teclado tiene muy poco recorrido y cansa al escribir mucho.,Neutro
-Acer Nitro V 15,La pantalla tiene un sangrado de luz en los bordes que arruina cualquier película o juego con escenas oscuras.,Negativo
-Acer Nitro 17,El tamaño de la pantalla es perfecto para no forzar la vista y el teclado numérico es muy útil.,Positivo
-Acer Nitro 17,Buena visibilidad por su tamaño pero es tan grande que no cabe en compartimentos estándar de equipaje.,Neutro
-Gigabyte G5,El plástico del chasis se siente tanto hueco que da la impresión de que se va a romper con cualquier golpe.,Negativo
-Gigabyte G5,"La opción más honesta para gaming económico, cumple con lo que promete sin adornos innecesarios.",Positivo
-Gigabyte G5,Los componentes internos son potentes pero la pantalla tiene una fuga de luz notable en los bordes negros.,Neutro
-MacBook Pro 16 M4 Max,El sistema operativo se congela al usar monitores externos de otras marcas un bug que Apple no ha resuelto.,Negativo
-MacBook Pro 14 M4 Pro,"Los altavoces tienen unos bajos profundos que no esperarías de algo tan pequeño, gran calidad de audio.",Positivo
-MacBook Pro 14 M4 Pro,La potencia sobra para casi todo pero Apple sigue siendo tacaña con el almacenamiento en el modelo de entrada.,Neutro
-Huawei MateBook D14,El ventilador empezó a raspar contra algo interno a los pocos días tuve que devolverla por miedo a incendio.,Negativo
-Huawei MateBook X Pro,El acabado metálico se siente muy premium y el touchpad con gestos táctiles es muy intuitivo de usar.,Positivo
-Huawei MateBook X Pro,El peso es ideal para viajes pero la posición de la cámara web sigue siendo algo incómoda para el ángulo.,Neutro
-MSI Modern 14,La potencia de recepción de Bluetooth es pésima mis audífonos se desconectan si muevo la cabeza.,Negativo
-Dynabook Tecra,"Una laptop empresarial clásica que nunca falla, la conectividad legacy es perfecta para oficinas antiguas.",Positivo
-Dynabook Tecra,Muy confiable para bases de datos pero el diseño estético se quedó estancado en la década pasada.,Neutro
-Dell Inspiron 15,"Se siente como una laptop de hace 8 años, pesada, lenta y con una pantalla que tiene colores horribles.",Negativo
+producto,texto,etiqueta
+MacBook Air M4,"El chip M4 es una bestia en eficiencia, la batería me dura casi dos días de uso ligero sin cargar.",positivo
+MacBook Air M4,El rendimiento es excelente como siempre pero el diseño no ha cambiado nada respecto al modelo anterior.,neutral
+MacBook Air M4,Se calienta muchísimo con tareas básicas y el sistema reduce la potencia a la mitad para no quemarse.,negativo
+Lenovo Legion LOQ 15,La mejor relación calidad-precio de 2026 corre juegos triple A sin despeinarse y el enfriamiento es sólido.,positivo
+Lenovo Legion LOQ 15,"Tiene mucha potencia para juegos, pero los ventiladores son demasiado ruidosos incluso en tareas básicas.",neutral
+Lenovo Legion LOQ 15,La placa base murió a los dos meses de uso y el servicio técnico de Lenovo ha sido una pesadilla total.,negativo
+ASUS ROG Zephyrus G14,"Increíble que tanta potencia quepa en 14 pulgadas, la pantalla OLED tiene unos colores que parecen de otro mundo.",positivo
+ASUS Zenbook S 13,La pantalla OLED es preciosa aunque la falta de puertos USB-A me obliga a cargar con adaptadores siempre.,neutral
+ASUS ROG Zephyrus G14,Pantalla con fugas de luz horribles en las esquinas para lo que cuesta es una falta de respeto al cliente.,negativo
+HP OmniBook 7 Aero,"Súper ligera, pesa menos de un kilo y para viajar es la compañera perfecta sin sacrificar puertos esenciales.",positivo
+HP Pavilion 15,"Es una laptop funcional para la oficina, pero el cuerpo de plástico se siente algo frágil al tacto.",neutral
+HP Pavilion 15,El teclado dejó de funcionar de la nada y el chasis de plástico cruje cada vez que la abro o la cierro.,negativo
+Dell XPS 14 (2026),El diseño es simplemente futurista el cristal del trackpad se siente premium y la construcción es impecable.,positivo
+Dell XPS 13 (2026),Estéticamente es una joya pero la fila de teclas táctiles sigue siendo menos intuitiva que las físicas.,neutral
+Dell XPS 13 (2026),La falta de puertos es ridícula y el adaptador oficial falló a la semana me arrepiento de la compra.,negativo
+Acer Nitro V 15,Sorprendido con el rendimiento de la RTX 4050 por este precio ideal para estudiantes que también juegan.,positivo
+Acer Nitro V 15,Las especificaciones son buenas por el precio pero la batería apenas llega a las 4 horas con uso moderado.,neutral
+Acer Nitro V 15,Los ventiladores hacen un ruido insoportable incluso en reposo y la batería no dura ni dos horas.,negativo
+Samsung Galaxy Book4 Pro,La integración con el ecosistema Galaxy es perfecta la pantalla táctil responde de maravilla y es muy delgada.,positivo
+Samsung Galaxy Book4,"Se sincroniza bien con mi celular, aunque el precio me parece elevado para los componentes que ofrece.",neutral
+Samsung Galaxy Book4,La pantalla se estrelló sola sin recibir ningún golpe el cristal es extremadamente frágil y delgado.,negativo
+Lenovo ThinkPad X1 Carbon,El teclado sigue siendo el rey absoluto para escribir código la durabilidad de este equipo no tiene competencia.,positivo
+Microsoft Surface Laptop 7,La construcción es sólida pero Windows en ARM todavía tiene pequeños problemas de compatibilidad con apps viejas.,neutral
+Lenovo ThinkPad X1 Carbon,El software de actualización de drivers bloqueó mi laptop y tuve que reinstalar todo desde cero.,negativo
+HP Victus 15,Estética sobria que no grita gamer pero con potencia de sobra para edición de video pesada y multitarea.,positivo
+MSI Modern 15,Muy ligera y cómoda para transportar pero la pantalla tiene poco brillo para usarla cerca de ventanas.,neutral
+HP Victus 15,"La bisagra es tan inestable que la pantalla baila con solo escribir, se siente como un juguete barato.",negativo
+MSI Katana 15 HX,"Un rendimiento bruto impresionante para renderizado, el procesador i7 de nueva generación vuela en todo.",positivo
+Gigabyte G5,"El rendimiento en juegos es decente, pero se calienta bastante rápido llegando a temperaturas preocupantes.",neutral
+MSI Katana 15 HX,"El rendimiento es bueno pero la calidad de los materiales es pésima, el plástico se raya con solo mirarlo.",negativo
+MacBook Pro 16 M4 Pro,"La herramienta definitiva para profesionales creativos, el brillo de la pantalla en HDR es simplemente espectacular.",positivo
+ASUS TUF Gaming A15,"Es un equipo muy resistente y duradero, pero la fidelidad de color de la pantalla deja mucho que desear.",neutral
+MacBook Pro 16 M4 Pro,Empezó a mostrar pixeles muertos al mes de uso y Apple dice que no entra en la garantía limitada.,negativo
+ASUS TUF Gaming F15,"Se siente como un tanque, la certificación militar me da mucha confianza para llevarla a todos lados.",positivo
+Lenovo IdeaPad Slim 3,"Cumple bien para tareas escolares básicas, pero no esperes que sea rápida con muchas pestañas abiertas.",neutral
+ASUS TUF Gaming F15,Se apaga sola por sobrecalentamiento cuando juego el sistema de enfriamiento es totalmente insuficiente.,negativo
+Acer Swift Edge 16,"Pantalla 4K OLED en un chasis tan liviano parece magia, ver contenido multimedia aquí es una experiencia única.",positivo
+HP Victus 16,La pantalla es grande y fluida pero el balanceo de la tapa es algo molesto cuando escribes rápido.,neutral
+Acer Swift Edge 16,"La batería es una broma, no dura ni una película completa en Netflix sin tener que conectarla.",negativo
+Huawei MateBook D16,El formato de pantalla 1610 ayuda muchísimo a la productividad puedo ver más líneas de Excel sin scroll.,positivo
+Acer Swift Go 14,Muy portátil y veloz aunque la calidad de la cámara web es bastante mediocre para videoconferencias.,neutral
+Huawei MateBook D16,"El Wi-Fi se desconecta constantemente y es imposible trabajar así, he probado de todo y nada funciona.",negativo
+Microsoft Surface Laptop 7,El acabado en aluminio es de los mejores Windows 11 corre con una fluidez que no había visto antes.,positivo
+Dell Inspiron 14,"Es una laptop confiable para el día a día, pero el ventilador se enciende por cualquier proceso mínimo.",neutral
+Microsoft Surface Laptop 7,El cargador dejó de funcionar y conseguir uno original es carísimo y difícil en mi país.,negativo
+Razer Blade 16,Cara pero vale cada centavo por la calidad de construcción y la potencia gráfica que maneja sin calentarse.,positivo
+MacBook Pro 14 M4,"Es una máquina increíble, pero para la mayoría de los usuarios la diferencia con la Air no justifica el gasto.",neutral
+Razer Blade 16,"La batería se infló a los 10 meses y deformó todo el trackpad, es un peligro constante.",negativo
+Framework Laptop 16,"Me encanta la filosofía de poder reparar y actualizar todo yo mismo, el rendimiento es muy competitivo además.",positivo
+Razer Blade 14,El diseño y materiales son de diez pero la vida útil de la batería ha bajado notablemente tras seis meses.,neutral
+Framework Laptop 16,Demasiados errores de software con los módulos paso más tiempo arreglando fallos que trabajando.,negativo
+Lenovo Yoga Slim 7,Muy versátil y elegante el sistema de sonido es sorprendentemente potente para un equipo tan compacto.,positivo
+Lenovo ThinkPad E14,El teclado es excelente para escribir pero el diseño se siente muy anticuado comparado con otros modelos.,neutral
+Lenovo Yoga Slim 7,"Los altavoces empezaron a distorsionar el sonido al poco tiempo, la calidad de audio es decepcionante.",negativo
+HP Omen Max 16,El diseño minimalista en negro mate es hermoso y la tarjeta gráfica RTX 5080 es simplemente imparable.,positivo
+Huawei MateBook D14,Tiene un look muy limpio similar a una Mac pero conseguir soporte técnico oficial es complicado en mi zona.,neutral
+HP Omen Max 16,"El trackpad se queda pegado y no hace clic bien, un fallo de diseño básico en un equipo tan caro.",negativo
+Acer Aspire 5,Silenciosa y eficiente para tareas de oficina por el precio que pagué no creo que exista algo mejor hoy.,positivo
+LG Gram 16,Es impresionantemente ligera para su tamaño aunque el chasis tiene mucha flexibilidad y da algo de miedo.,neutral
+Acer Aspire 5,Es lentísima incluso para abrir una carpeta el disco duro o el procesador vienen defectuosos de fábrica.,negativo
+MacBook Air M4,El diseño sin ventilador es una maravilla puedo trabajar en total silencio incluso con varias apps abiertas.,positivo
+Acer Aspire 5,Funciona bien para tareas básicas pero el trackpad se siente algo impreciso y de plástico barato.,neutral
+ASUS Vivobook 15,"La pantalla tiene un tinte amarillento que no se quita con nada, cansa la vista en menos de una hora.",negativo
+Dell G15 Gaming,Excelente gestión térmica para sesiones largas de juego el software Alienware Command Center ayuda mucho.,positivo
+ASUS ROG Strix G16,La potencia es bruta para juegos aunque el bloque de alimentación es gigantesco y pesa casi como la laptop.,neutral
+Dell G15 Gaming,El software de Alienware que trae preinstalado consume toda la RAM y hace que Windows se trabe.,negativo
+ASUS Vivobook S 15,La pantalla OLED es vibrante y los bordes son casi existentes lo que la hace muy inmersiva para películas.,positivo
+HP Envy x360,El modo tablet es útil ocasionalmente pero el equipo es demasiado pesado para sostenerlo con una mano mucho tiempo.,neutral
+HP Envy x360,La pantalla táctil dejó de responder en la mitad derecha justo después de que se venció la garantía.,negativo
+Lenovo IdeaPad Slim 5,"Una laptop de entrada muy sólida, el chasis de aluminio se siente mucho más caro de lo que realmente cuesta.",positivo
+Dell Latitude 5440,Una laptop de trabajo estándar que cumple su función sin destacar en pantalla ni en sonido.,neutral
+Lenovo IdeaPad 3,El procesador es tan básico que se congela solo con tener tres pestañas de Chrome abiertas.,negativo
+HP Envy x360 14,La bisagra es muy firme y el modo tablet es extremadamente útil para tomar notas con el stylus incluido.,positivo
+Lenovo Yoga 7i,La pantalla táctil es muy sensible y buena pero el acabado brillante refleja demasiado la luz en interiores.,neutral
+MSI Stealth 14,"El teclado se calienta tanto que literalmente quema los dedos al jugar, es imposible de usar así.",negativo
+MSI Stealth 14,"Potencia de gama alta en un cuerpo ultra compacto, ideal para quienes necesitamos rendimiento en movimiento.",positivo
+MSI Katana 17,El tamaño de pantalla es genial para visibilidad pero la calidad de los plásticos cruje un poco al moverla.,neutral
+Acer Predator Helios,"Los puertos USB empezaron a fallar uno por uno, ahora solo me queda uno que funcione a veces.",negativo
+Acer Predator Helios Neo,El teclado RGB es espectacular y las velocidades del SSD son de las más rápidas que he probado este año.,positivo
+MacBook Pro 16 M4,Es la mejor laptop que he tenido pero el precio es prohibitivo para alguien que no edita video profesionalmente.,neutral
+Gigabyte Aorus 15,La retroiluminación del teclado parpadea constantemente y el soporte técnico no me da ninguna solución.,negativo
+Gigabyte Aorus 15,"Una pantalla con tasa de refresco altísima, jugar shooters en esta laptop es una ventaja competitiva real.",positivo
+Microsoft Surface Pro 11,El hardware es excelente pero tener que comprar el teclado por separado a ese precio me parece excesivo.,neutral
+Samsung Galaxy Book4,El trackpad es errático y el cursor salta de un lado a otro sin que yo lo toque es desesperante.,negativo
+Samsung Galaxy Book4 Ultra,"La pantalla Dynamic AMOLED 2X es la mejor del mercado actual, los negros son perfectos y el contraste increíble.",positivo
+Samsung Galaxy Book4 Pro,Muy delgada y estética aunque tiende a calentarse de más cuando se conecta a un monitor externo.,neutral
+LG Gram 17,Es tan flexible que si la sostienes de una esquina la pantalla se apaga parece que se va a romper.,negativo
+LG Gram 17,Es increíblemente ligera para su tamaño de 17 pulgadas parece que llevas un cuaderno en la mochila.,positivo
+Acer Predator Helios Neo,Rendimiento sólido en gaming pero el software de control de luces es bastante inestable y se cierra solo.,neutral
+MacBook Pro 14 M4,El puerto MagSafe viene flojo y se desconecta con cualquier movimiento mínimo mala calidad de armado.,negativo
+ASUS Zenbook Duo (2026),La doble pantalla ha cambiado totalmente mi flujo de trabajo es el futuro de la productividad multitarea.,positivo
+ASUS Vivobook 15,Buena para estudiantes por su ligereza pero la batería no llega a cubrir una jornada completa de clases.,neutral
+ASUS TUF Gaming A15,"La tarjeta de red Wi-Fi es de pésima calidad, tengo el router al lado y solo me marca una barra.",negativo
+MacBook Pro 14 M4,El tamaño de 14 pulgadas es el equilibrio perfecto entre portabilidad y potencia bruta para edición 8K.,positivo
+HP Chromebook x360,Muy rápida para navegar en Chrome pero te sientes muy limitado si necesitas instalar software local pesado.,neutral
+HP Pavilion Plus 14,Los ventiladores empezaron a hacer un chirrido metálico horrible a las dos semanas de uso diario.,negativo
+Lenovo Legion 7i,"El acabado metálico es impecable y no se ensucia con las huellas, un equipo gaming muy elegante.",positivo
+Lenovo ThinkBook 16,El formato de pantalla es cómodo para trabajar pero el brillo máximo es insuficiente para usarla en exteriores.,neutral
+Lenovo Legion 5,El recubrimiento del chasis se está pelando y la laptop se ve vieja a pesar de tener solo tres meses.,negativo
+HP Pavilion Plus 14,"Muy buena cámara web de 5MP, las videollamadas se ven nítidas incluso en condiciones de poca luz.",positivo
+Dell G16 Gaming,Corre todo en ultra pero es sumamente ruidosa parece que va a despegar incluso con juegos poco exigentes.,neutral
+Microsoft Surface Pro 11,El sistema se queda pegado en la pantalla de inicio y tengo que forzar el apagado casi todos los días.,negativo
+Acer Swift Go 14,"La duración de la batería me sorprendió gratamente, paso toda la jornada de oficina sin buscar el cargador.",positivo
+Razer Blade 16,Es una joya de ingeniería pero el servicio al cliente de la marca sigue siendo un dolor de cabeza si falla algo.,neutral
+Dell Inspiron 14,"El sonido es bajísimo, incluso al 100% apenas se escucha nada si hay un poco de ruido ambiental.",negativo
+Microsoft Surface Pro 10,"Como dispositivo 2 en 1 no tiene rival, la respuesta del lápiz óptico es instantánea y muy natural.",positivo
+LG Gram Style,El diseño es único y hermoso pero las huellas dactilares se quedan marcadas por todo el chasis al instante.,neutral
+Acer Swift Go 14,"La cámara web tiene una calidad de hace 10 años, se ve todo granulado incluso con buena iluminación.",negativo
+Razer Blade 14,"El trackpad de cristal es enorme y muy preciso, la mejor experiencia de navegación en Windows.",positivo
+MSI Stealth 14,Muy potente para su tamaño aunque la batería desaparece en menos de dos horas si no estás cerca de un enchufe.,neutral
+Razer Blade 14,Se sobrecalienta tanto que se activan las protecciones y se apaga de golpe perdiendo todo mi trabajo.,negativo
+Alienware m16 R2,El nuevo modo sigilo es genial para usarla en la universidad sin llamar la atención con luces y ruido.,positivo
+Framework Laptop 13,Me encanta la idea de repararla yo mismo pero el precio inicial es más alto que laptops con mejores specs.,neutral
+Alienware m16 R2,Es pesadísima y el transformador parece un ladrillo es una tortura tener que llevarla en la mochila.,negativo
+Dynabook Portege X30,"Súper segura con el lector de huellas y reconocimiento facial, ideal para manejo de datos sensibles.",positivo
+ASUS ROG Flow Z13,Es un concepto innovador de tablet gaming pero el teclado plegable se siente algo endeble para escribir mucho.,neutral
+Dynabook Portege,"El lector de huellas nunca funciona a la primera, siempre tengo que terminar poniendo la contraseña.",negativo
+Lenovo Legion Slim 5,"Una gran opción balanceada, no es tan pesada como otras gaming y el rendimiento en renderizado es fluido.",positivo
+Lenovo IdeaPad Flex 5,Cumple como convertible económico pero la bisagra hace ruidos extraños después de unos meses de uso.,neutral
+MSI Modern 15,"La bisagra se rompió por dentro y ahora la pantalla no se queda fija, se va hacia atrás sola.",negativo
+ASUS ExpertBook B9,"El peso es ridículo, parece una maqueta de lo liviana que es, perfecta para consultores que viajan diario.",positivo
+MacBook Air M4,El paso a 16GB de RAM base es justo pero sigue siendo molesto que cobren tanto por subir el almacenamiento.,neutral
+ASUS Vivobook 15,"La pantalla tiene un tinte amarillento que no se quita con nada, cansa la vista en menos de una hora.",negativo
+HP Spectre x360 14,El diseño de las esquinas cortadas sigue siendo el más elegante del mercado y la pantalla 2.8K se ve de lujo.,positivo
+HP EliteBook 840,Muy buena para videollamadas y oficina aunque el audio de los altavoces suena algo metálico y sin bajos.,neutral
+Dell G15 Gaming,El software de Alienware que trae preinstalado consume toda la RAM y hace que Windows se trabe.,negativo
+Dell Latitude 7450,"Una herramienta de trabajo infalible, la conectividad 5G integrada es súper estable en zonas sin Wi-Fi.",positivo
+Lenovo Legion Slim 5,El rendimiento es equilibrado pero el acabado gris mate se raya con mucha facilidad en la mochila.,neutral
+HP Envy x360,La pantalla táctil dejó de responder en la mitad derecha justo después de que se venció la garantía.,negativo
+MacBook Air M4,El puerto MagSafe me ha salvado de varios accidentes es un detalle que se agradece en el uso diario.,positivo
+ASUS Zenbook 14 OLED,La pantalla es lo mejor del equipo pero el sistema de reconocimiento facial falla cuando hay poca luz.,neutral
+Lenovo IdeaPad 3,El procesador es tan básico que se congela solo con tener tres pestañas de Chrome abiertas.,negativo
+Lenovo IdeaPad Gaming 3,"Para ser una laptop de entrada, el teclado tiene un recorrido muy cómodo y no se siente de plástico barato.",positivo
+Acer Swift Edge 16,Es increíblemente delgada para ser de 16 pulgadas pero la autonomía de la batería es bastante mediocre.,neutral
+MSI Stealth 14,"El teclado se calienta tanto que literalmente quema los dedos al jugar, es imposible de usar así.",negativo
+Acer Spin 5,"La precisión del stylus en esta pantalla es comparable a tabletas de dibujo profesionales, muy recomendada.",positivo
+Dell Vostro 3530,Un equipo de batalla para el trabajo diario aunque la pantalla tiene ángulos de visión muy limitados.,neutral
+Acer Predator Helios,"Los puertos USB empezaron a fallar uno por uno, ahora solo me queda uno que funcione a veces.",negativo
+Samsung Galaxy Book4 Pro 360,Los colores son muy profundos y el brillo es suficiente para trabajar en exteriores sin reflejos molestos.,positivo
+Samsung Galaxy Book4 Ultra,Potente y con pantalla hermosa pero el ventilador emite un silbido agudo que llega a ser molesto.,neutral
+Gigabyte Aorus 15,La retroiluminación del teclado parpadea constantemente y el soporte técnico no me da ninguna solución.,negativo
+MSI Prestige 16,"Una laptop para creadores muy equilibrada, el puerto SD de tamaño completo es un alivio para fotógrafos.",positivo
+MSI Prestige 16,Buena para diseño gráfico ligero pero el trackpad es demasiado grande y a veces detecta toques accidentales.,neutral
+Samsung Galaxy Book4,El trackpad es errático y el cursor salta de un lado a otro sin que yo lo toque,negativo
+Microsoft Surface Go 4,Pequeña pero matona para tomar notas en la universidad y leer PDFs es el dispositivo más cómodo que existe.,positivo
+Huawei MateBook X Pro,El hardware es de primer nivel pero la falta de garantía extendida en mi país me genera desconfianza.,neutral
+LG Gram 17,Es tan flexible que si la sostienes de una esquina la pantalla se apaga parece que se va a romper.,negativo
+Gigabyte Aero 16 OLED,La calibración de color de fábrica es perfecta ideal para edición fotográfica sin tener que ajustar nada extra.,positivo
+Microsoft Surface Go 4,Ideal para viajes cortos y correos pero se siente muy lenta si intentas abrir más de 5 pestañas en Edge.,neutral
+MacBook Pro 14 M4,"El puerto MagSafe viene flojo y se desconecta con cualquier movimiento mínimo, mala calidad de armado.",negativo
+ASUS Vivobook Go 15,Súper económica y cumple perfectamente con clases en línea y navegación web la batería rinde bastante.,positivo
+Gigabyte Aero 16,Colores precisos para fotógrafos pero el teclado tiene una distribución extraña a la que cuesta acostumbrarse.,neutral
+ASUS TUF Gaming A15,"La tarjeta de red Wi-Fi es de pésima calidad, tengo el router al lado y solo me marca una barra.",negativo
+HP EliteBook 1040,"El teclado es muy silencioso, puedo escribir en reuniones sin molestar a nadie, además de ser muy segura.",positivo
+ASUS ROG Ally X,Como PC portátil es potente pero Windows 11 todavía no se siente totalmente optimizado para pantallas táctiles.,neutral
+HP Pavilion Plus 14,Los ventiladores empezaron a hacer un chirrido metálico horrible a las dos semanas de uso diario.,negativo
+Lenovo ThinkBook 14p,El sensor de huellas es instantáneo y la integración con Teams mediante botones dedicados es muy útil.,positivo
+Lenovo ThinkPad X1 Carbon,Sigue siendo la mejor laptop empresarial pero el precio sube cada año sin innovaciones realmente grandes.,neutral
+Lenovo Legion 5,El recubrimiento del chasis se está pelando y la laptop se ve vieja a pesar de tener solo tres meses.,negativo
+Dell Vostro 3530,Un equipo básico pero robusto el soporte técnico de Dell siempre responde rápido ante cualquier duda.,positivo
+HP Omen 16,Muy buen enfriamiento pero el diseño es demasiado genérico y parece una laptop de oficina de hace 5 años.,neutral
+Microsoft Surface Pro 11,El sistema se queda pegado en la pantalla de inicio y tengo que forzar el apagado casi todos los días.,negativo
+Razer Blade 18,Básicamente una PC de escritorio portátil el sistema de audio es el más potente que he escuchado en una laptop.,positivo
+Dell Inspiron 16,Pantalla amplia para trabajar desde casa pero el cargador es muy estorboso y pesado para transportarlo.,neutral
+Dell Inspiron 14,"El sonido es bajísimo, incluso al 100% apenas se escucha nada si hay un poco de ruido ambiental.",negativo
+Acer Aspire Vero,Me encanta que usen materiales reciclados se siente sólida y el software de ahorro de energía funciona bien.,positivo
+Acer Spin 3,Es funcional como 2 en 1 pero la pantalla tiene demasiados reflejos incluso en interiores con luz media.,neutral
+Acer Swift Go 14,"La cámara web tiene una calidad de hace 10 años, se ve todo granulado incluso con buena iluminación.",negativo
+LG Gram Style,"El acabado que cambia de color con la luz es precioso, es la laptop más bonita que he tenido en años.",positivo
+LG Gram 17,La ligereza es imbatible pero los puertos USB-C se sienten algo flojos después de poco tiempo de uso.,neutral
+Razer Blade 14,Se sobrecalienta tanto que se activan las protecciones y se apaga de golpe perdiendo todo mi trabajo.,negativo
+Panasonic Toughbook 55,Literalmente indestructible la hemos usado en obras de construcción bajo la lluvia y sigue como nueva.,positivo
+MacBook Pro 14 M4 Pro,Puertos suficientes y potencia de sobra pero el notch en la pantalla sigue estorbando en la barra de menús.,neutral
+Alienware m16 R2,Es pesadísima y el transformador parece un ladrillo es una tortura tener que llevarla en la mochila.,negativo
+MacBook Pro 16 M4 Max,Renderizar video en 8K es una tarea sencilla para este equipo el tiempo de exportación se redujo a la mitad.,positivo
+MSI Cyborg 15,Estética cyberpunk interesante pero la calidad de construcción es casi toda de plástico y se siente hueca.,neutral
+Dynabook Portege,"El lector de huellas nunca funciona a la primera, siempre tengo que terminar poniendo la contraseña.",negativo
+MSI Alpha 17,La combinación de procesador y gráfica AMD da un rendimiento excelente en multitarea y juegos pesados.,positivo
+Razer Blade 18,Una pantalla gigante y hermosa pero es tan grande que no cabe en la mayoría de las mochilas estándar.,neutral
+MSI Modern 15,"La bisagra se rompió por dentro y ahora la pantalla no se queda fija, se va hacia atrás sola.",negativo
+ASUS ProArt Studiobook 16,El dial físico integrado es una joya para editar en Premiere agiliza el flujo de trabajo una barbaridad.,positivo
+ASUS Vivobook S 15,El teclado retroiluminado es cómodo pero la luz se filtra por los lados de las teclas y distrae de noche.,neutral
+ASUS Vivobook 15,"La pantalla tiene un tinte amarillento que no se quita con nada, cansa la vista en menos de una hora.",negativo
+Lenovo Legion Slim 7,El equilibrio perfecto entre una laptop de oficina y una gaming no pesa tanto y rinde de maravilla.,positivo
+Lenovo LOQ 16,Una opción sólida para presupuestos medios aunque los altavoces suenan bastante bajo incluso al máximo.,neutral
+Dell G15 Gaming,El software de Alienware que trae preinstalado consume toda la RAM y hace que Windows se trabe.,negativo
+HP Dragonfly G4,La mejor laptop para ejecutivos la conectividad es impecable y el diseño en azul pizarra es muy profesional.,positivo
+HP Envy 17,Pantalla enorme ideal para ver películas pero el tamaño la hace muy difícil de manejar en aviones o trenes.,neutral
+HP Envy x360,La pantalla táctil dejó de responder en la mitad derecha justo después de que se venció la garantía.,negativo
+Acer Swift X 14,Una pequeña bestia con gráfica dedicada a un precio muy contenido ideal para estudiantes de ingeniería.,positivo
+Dell XPS 14 (2026),La pantalla OLED es espectacular pero solo tener puertos USB-C es una decisión que sigue siendo molesta.,neutral
+Lenovo IdeaPad 3,El procesador es tan básico que se congela solo con tener tres pestañas de Chrome abiertas.,negativo
+"MacBook Air M4 (15"")",El tamaño de pantalla extra sin el peso de la Pro es justo lo que necesitaba para trabajar en el café.,positivo
+MacBook Air M4,El color medianoche es hermoso pero es un imán de huellas dactilares y siempre parece estar sucia.,neutral
+MSI Stealth 14,"El teclado se calienta tanto que literalmente quema los dedos al jugar, es imposible de usar así.",negativo
+Dell XPS 13 (2026),La pantalla de borde a borde sigue siendo la más impresionante del mercado la calidad de imagen es insuperable.,positivo
+Acer Swift X 14,Rendimiento gráfico decente en un cuerpo pequeño pero se calienta mucho en la zona donde descansas las manos.,neutral
+Acer Predator Helios,"Los puertos USB empezaron a fallar uno por uno, ahora solo me queda uno que funcione a veces.",negativo
+MSI Summit E13 Flip,El diseño convertible es muy elegante y el soporte para lápiz es muy preciso para firmas y esquemas rápidos.,positivo
+MSI Katana 15,El teclado numérico es útil pero las teclas son algo pequeñas y es fácil cometer errores al escribir.,neutral
+Gigabyte Aorus 15,La retroiluminación del teclado parpadea constantemente y el soporte técnico no me da ninguna solución.,negativo
+Samsung Galaxy Book4 Edge,El procesador Snapdragon X Elite vuela y la batería dura una eternidad Windows en ARM por fin es increíble.,positivo
+Samsung Galaxy Book4 Edge,Muy veloz para tareas de oficina pero muchos juegos de Steam aún no funcionan bien con este procesador.,neutral
+Samsung Galaxy Book4,El trackpad es errático y el cursor salta de un lado a otro sin que yo lo toque es desesperante.,negativo
+ASUS ROG Strix SCAR 18,Una auténtica bestia que reemplaza mi PC de escritorio el sistema de iluminación es el mejor que he visto.,positivo
+ASUS ROG Zephyrus G16,Diseño elegante que no parece gamer pero la memoria RAM viene soldada y no se puede ampliar después.,neutral
+LG Gram 17,Es tan flexible que si la sostienes de una esquina la pantalla se apaga parece que se va a romper.,negativo
+HP Chromebook Plus,Para ser una Chromebook es rapidísima abre todo al instante y la pantalla tiene una nitidez sorprendente.,positivo
+HP Pavilion Plus 14,La resolución de pantalla es muy buena pero el ventilador hace un ruido agudo incluso instalando actualizaciones.,neutral
+MacBook Pro 14 M4,El puerto MagSafe viene flojo y se desconecta con cualquier movimiento mínimo mala calidad de armado.,negativo
+Lenovo IdeaPad Flex 5,Muy versátil para ver series en modo tienda y luego trabajar la relación calidad-precio es imbatible.,positivo
+Lenovo IdeaPad Gaming 3,Muy económica pero la pantalla tiene una reproducción de color muy pobre para cualquier trabajo creativo.,neutral
+ASUS TUF Gaming A15,"La tarjeta de red Wi-Fi es de pésima calidad, tengo el router al lado y solo me marca una barra.",negativo
+Surface Laptop Studio 2,El mecanismo de la pantalla es único y muy útil para ilustradores la potencia gráfica me dejó sin palabras.,positivo
+Microsoft Surface Laptop Go 3,El diseño es adorable y muy portable pero no tener teclado retroiluminado a este precio es inaceptable.,neutral
+HP Pavilion Plus 14,Los ventiladores empezaron a hacer un chirrido metálico horrible a las dos semanas de uso diario.,negativo
+Alienware x14 R2,Es increíblemente delgada para ser una Alienware cabe en cualquier mochila y corre todo en ultra.,positivo
+Alienware m16 R2,Potencia de sobra para todo pero el software Alienware Command Center sigue siendo lento y se traba.,neutral
+Lenovo Legion 5,El recubrimiento del chasis se está pelando y la laptop se ve vieja a pesar de tener solo tres meses.,negativo
+Acer TravelMate P6,Muy resistente para el trabajo de campo la batería aguanta turnos largos sin problemas de sobrecalentamiento.,positivo
+Acer TravelMate P2,Una laptop de oficina cumplidora y con muchos puertos pero la pantalla se ve muy lavada y sin contraste.,neutral
+Microsoft Surface Pro 11,El sistema se queda pegado en la pantalla de inicio y tengo que forzar el apagado casi todos los días.,negativo
+LG Gram Pro,Tener una pantalla de 144Hz en una laptop que casi no pesa es un lujo para la vista en el uso diario.,positivo
+LG Gram Pro 16,El rendimiento es fluido para multitarea pero el trackpad se siente algo esponjoso al hacer clic.,neutral
+Dell Inspiron 14,"El sonido es bajísimo, incluso al 100% apenas se escucha nada si hay un poco de ruido ambiental.",negativo
+MacBook Pro 14 (M4),El color Negro Espacial es precioso y apenas se nota el desgaste la potencia del modelo base es suficiente.,positivo
+MacBook Pro 16 M4 Max,Es la computadora perfecta pero pesa lo suficiente como para que te canses de cargarla todo el día.,neutral
+Acer Swift Go 14,"La cámara web tiene una calidad de hace 10 años, se ve todo granulado incluso con buena iluminación.",negativo
+ASUS Zenbook S 13 OLED,"Es tan delgada que parece un iPad, pero con la potencia de una laptop completa, la ingeniería aquí es de diez.",positivo
+ASUS Zenbook Duo,La segunda pantalla es útil pero reduce mucho el espacio para apoyar las muñecas al escribir.,neutral
+Razer Blade 14,Se sobrecalienta tanto que se activan las protecciones y se apaga de golpe perdiendo todo mi trabajo.,negativo
+HP ZBook Studio G10,Una estación de trabajo certificada que no parece un ladrillo excelente para renders pesados de arquitectura.,positivo
+HP Spectre x360,Los accesorios incluidos son de calidad pero la batería dura mucho menos si usas la pantalla a máxima resolución.,neutral
+Alienware m16 R2,Es pesadísima y el transformador parece un ladrillo es una tortura tener que llevarla en la mochila.,negativo
+Lenovo LOQ 16,El teclado es muy cómodo y el rendimiento en juegos competitivos como Valorant es súper estable.,positivo
+Lenovo ThinkPad L14,Muy resistente para el trabajo rudo pero la pantalla base de 250 nits es casi imposible de ver con luz solar.,neutral
+Dynabook Portege,"El lector de huellas nunca funciona a la primera, siempre tengo que terminar poniendo la contraseña.",negativo
+Dell Inspiron 16 Plus,La pantalla grande de 16 pulgadas es ideal para multitarea sin necesidad de un monitor externo adicional.,positivo
+Dell G15 Gaming,El rendimiento térmico ha mejorado pero el diseño sigue siendo muy tosco y utiliza demasiado plástico.,neutral
+MSI Modern 15,"La bisagra se rompió por dentro y ahora la pantalla no se queda fija, se va hacia atrás sola.",negativo
+MacBook Air M4,El ecosistema de Apple hace que todo sea más fácil la transición entre el iPhone y la Mac es mágica.,positivo
+MacBook Air M4,El rendimiento por watt es insuperable pero la limitación de conectar solo dos monitores externos sigue ahí.,neutral
+MacBook Air M4,El puerto USB-C del lado izquierdo dejó de reconocer dispositivos a los dos meses reparación carísima.,negativo
+Razer Blade 15,Es la laptop con mejor diseño estético del mercado la iluminación Chroma es totalmente personalizable y fluida.,positivo
+Razer Blade 15,Estética impecable y minimalista pero la fuente de poder se calienta tanto que quema al tocarla.,neutral
+Lenovo Legion 7i,"La iluminación RGB de la base empezó a fallar y ahora parpadea en rojo sin razón, el software no lo arregla.",negativo
+ASUS Vivobook 16,"Por este precio, tener una pantalla de 16 pulgadas con tan buena fidelidad de color es un regalo.",positivo
+ASUS Vivobook 16,Pantalla amplia y cómoda para leer pero los materiales se sienten menos duraderos que en la línea Zenbook.,neutral
+ASUS Vivobook 16,La bisagra es tan dura que tienes que usar las dos manos para abrirla o sientes que vas a partir el marco.,negativo
+Lenovo Yoga 9i,La de sonido de la barra de sonido en la bisagra es espectacular la mejor experiencia de audio en una laptop.,positivo
+Lenovo Yoga 9i,La barra de sonido suena genial pero el mecanismo de rotación se siente un poco flojo tras meses de uso.,neutral
+HP Omen Max 16,El rendimiento cae a la mitad si no está conectada a la corriente incluso con el plan de energía en máximo.,negativo
+HP Elite Dragonfly,La función de privacidad de la pantalla con un solo botón es genial para trabajar en lugares públicos.,positivo
+HP Elite Dragonfly,Excelente para seguridad empresarial pero el precio es ridículamente alto comparado con una MacBook Pro.,neutral
+Dell XPS 16 (2026),La superficie de cristal del reposamuñecas se mancha de grasa permanentemente es imposible mantenerla limpia.,negativo
+Acer Predator Triton,El sistema de ventiladores AeroBlade mantiene la temperatura bajo control incluso en los juegos más exigentes.,positivo
+Acer Predator Triton,Es delgada para ser gaming pero eso hace que los ventiladores tengan que girar al máximo y hagan mucho ruido.,neutral
+Acer Predator Helios,La fuente de poder hace un ruido eléctrico agudo muy molesto que se escucha en toda la habitación.,negativo
+Microsoft Surface Pro 11,La actualización de la pantalla a 120Hz hace que usar el lápiz se sienta igual que escribir en papel.,positivo
+Microsoft Surface Pro 11,El teclado Flex es muy cómodo pero la conexión magnética a veces se suelta si no estás en una mesa plana.,neutral
+Microsoft Surface Laptop 7,La pantalla es un imán de reflejos es imposible usarla en una oficina con luces led sin quedar ciego.,negativo
+MSI Modern 14,Muy compacta y elegante en color azul es la laptop ideal para llevar a la biblioteca todos los días.,positivo
+MSI Modern 14,Diseño elegante y compacto pero el rendimiento cae notablemente cuando se usa solo con la batería.,neutral
+MSI Alpha 17,El teclado se siente esponjoso y las teclas se quedan trabadas a veces muy mala calidad de construcción.,negativo
+Dell XPS 16 (2026),La potencia de procesamiento para compilar código es impresionante ahorro mucho tiempo en mi flujo diario.,positivo
+Dell XPS 16 (2026),La potencia es increíble para renderizado pero el teclado con teclas pegadas requiere una curva de aprendizaje.,neutral
+Samsung Galaxy Book4 Pro,"El Wi-Fi tiene un alcance bajísimo, a dos habitaciones del router pierdo la señal por completo.",negativo
+Framework Laptop 13,"Me encanta poder cambiar los puertos según lo que necesite, es la laptop más lógica que he comprado.",positivo
+Framework Laptop 16,La idea de los módulos es brillante pero el ensamblaje final no se siente tan rígido como una laptop unibody.,neutral
+Framework Laptop 16,Los ventiladores emiten un sonido vibrante que indica un mal rodamiento de fábrica control de calidad pobre.,negativo
+Samsung Galaxy Book5 Pro,La integración con las tablets de Samsung para usar como segundo monitor funciona sin ningún retraso.,positivo
+Samsung Galaxy Book5 Pro,Muy ligera para su tamaño pero el software preinstalado de Samsung ocupa demasiado espacio innecesario.,neutral
+ASUS ROG Flow Z13,La batería dura menos de una hora jugando básicamente es una PC de escritorio con una pantalla pegada.,negativo
+ASUS ROG Flow X13,Poder convertir una laptop gamer en tablet es algo que no sabía que necesitaba hasta que la probé.,positivo
+ASUS ROG Flow X13,"Es un concepto 2 en 1 único, pero la duración de la batería en modo tablet es bastante decepcionante.",neutral
+Lenovo ThinkPad P1,"Se calienta tanto bajo carga que el sistema se apaga por seguridad, no sirve para trabajos pesados largos.",negativo
+Lenovo ThinkPad P1,Una estación de trabajo certificada para CAD que es sorprendentemente delgada y ligera para su potencia.,positivo
+Lenovo ThinkPad P1,Una workstation muy capaz pero el cargador propietario es enorme y difícil de conseguir si se rompe.,neutral
+HP Pavilion Aero,"El trackpad es tan pequeño que navegar por la pantalla es frustrante, además de ser muy ruidoso al clic.",negativo
+HP Pavilion Aero,La laptop más ligera que he tenido el rendimiento del procesador Ryzen es excelente para productividad.,positivo
+HP Pavilion Aero,Pesa menos de un kilo lo cual es fantástico pero el trackpad es pequeño y se siente algo inestable.,neutral
+LG Gram Pro,"El audio por audífonos tiene un siseo constante, parece un problema de aislamiento en la placa base.",negativo
+LG Gram SuperSlim,Es increíblemente delgada literalmente desaparece en la mochila y la pantalla OLED es un sueño.,positivo
+LG Gram SuperSlim,La delgadez es impactante pero debido a eso el teclado tiene muy poco recorrido y cansa al escribir mucho.,neutral
+Acer Nitro V 15,La pantalla tiene un sangrado de luz en los bordes que arruina cualquier película o juego con escenas oscuras.,negativo
+Acer Nitro 17,El tamaño de la pantalla es perfecto para no forzar la vista y el teclado numérico es muy útil.,positivo
+Acer Nitro 17,Buena visibilidad por su tamaño pero es tan grande que no cabe en compartimentos estándar de equipaje.,neutral
+Gigabyte G5,El plástico del chasis se siente tanto hueco que da la impresión de que se va a romper con cualquier golpe.,negativo
+Gigabyte G5,"La opción más honesta para gaming económico, cumple con lo que promete sin adornos innecesarios.",positivo
+Gigabyte G5,Los componentes internos son potentes pero la pantalla tiene una fuga de luz notable en los bordes negros.,neutral
+MacBook Pro 16 M4 Max,El sistema operativo se congela al usar monitores externos de otras marcas un bug que Apple no ha resuelto.,negativo
+MacBook Pro 14 M4 Pro,"Los altavoces tienen unos bajos profundos que no esperarías de algo tan pequeño, gran calidad de audio.",positivo
+MacBook Pro 14 M4 Pro,La potencia sobra para casi todo pero Apple sigue siendo tacaña con el almacenamiento en el modelo de entrada.,neutral
+Huawei MateBook D14,El ventilador empezó a raspar contra algo interno a los pocos días tuve que devolverla por miedo a incendio.,negativo
+Huawei MateBook X Pro,El acabado metálico se siente muy premium y el touchpad con gestos táctiles es muy intuitivo de usar.,positivo
+Huawei MateBook X Pro,El peso es ideal para viajes pero la posición de la cámara web sigue siendo algo incómoda para el ángulo.,neutral
+MSI Modern 14,La potencia de recepción de Bluetooth es pésima mis audífonos se desconectan si muevo la cabeza.,negativo
+Dynabook Tecra,"Una laptop empresarial clásica que nunca falla, la conectividad legacy es perfecta para oficinas antiguas.",positivo
+Dynabook Tecra,Muy confiable para bases de datos pero el diseño estético se quedó estancado en la década pasada.,neutral
+Dell Inspiron 15,"Se siente como una laptop de hace 8 años, pesada, lenta y con una pantalla que tiene colores horribles.",negativo
+MacBook Air M4,El chip M4 vuela en tareas de productividad y la batería me da para todo el día sin preocuparme.,positivo
+Lenovo Legion LOQ 15,"Corre los juegos bien, pero los ventiladores hacen tanto ruido que es molesto jugar sin audífonos.",neutral
+ASUS ROG Zephyrus G14,"El panel OLED vino con un sangrado de luz horrible en las esquinas, una estafa por lo que cuesta.",negativo
+HP OmniBook Ultra,"La eficiencia del procesador AMD es increíble, la laptop no se calienta nada con uso rudo.",positivo
+Dell XPS 13 (2026),"El diseño es hermoso y futurista, pero la fila de funciones táctiles requiere acostumbrarse.",neutral
+Acer Nitro V 15,La batería no dura ni dos horas viendo videos y el soporte técnico no me da ninguna solución.,negativo
+ASUS Zenbook 14 OLED,El teclado es una delicia para escribir código y los colores de la pantalla son ultra realistas.,positivo
+HP Pavilion 15,"Es una laptop básica que cumple para la oficina, aunque el chasis de plástico se siente algo frágil.",neutral
+Samsung Galaxy Book4,"La pantalla se estrelló sola por la presión al cerrarla, el cristal es extremadamente delgado y delicado.",negativo
+Acer Nitro 16,"El sistema de enfriamiento es brutal, mantiene la laptop fría incluso en sesiones largas de juego.",positivo
+Microsoft Surface Laptop 7,La construcción es sólida pero Windows en ARM todavía da problemas con programas de edición viejos.,neutral
+Lenovo ThinkPad X1 Carbon,El software de actualización congeló el sistema y tuve que formatear todo el equipo desde cero.,negativo
+Samsung Galaxy Book4 Edge,"El encendido es instantáneo gracias al procesador Snapdragon, se siente fluida como un celular de gama alta.",positivo
+MSI Modern 15,"Es muy ligera para transportar diario, pero el brillo de la pantalla se queda corto en habitaciones iluminadas.",neutral
+HP Victus 15,"La bisagra de la pantalla es flojísima, se tambalea con solo escribir rápido y parece un juguete barato.",negativo
+MSI Stealth 16,Excelente equilibrio entre una estética sobria para trabajar y componentes potentes para jugar de noche.,positivo
+Gigabyte G5,"El rendimiento gráfico es decente por su costo, pero las temperaturas que alcanza son algo preocupantes.",neutral
+MSI Katana 15 HX,"El plástico de la carcasa es de pésima calidad, se raya con rozar el cierre de la mochila.",negativo
+Huawei MateBook X Pro,"Pesa menos de un kilo, los acabados son hermosos y la portabilidad es simplemente perfecta.",positivo
+ASUS TUF Gaming A15,"Es un equipo robusto y duradero, pero la fidelidad de color de la pantalla deja mucho que desear.",neutral
+MacBook Pro 16 M4 Pro,Empezó a mostrar líneas de píxeles muertos al mes de uso y la garantía no quiere cubrir el cambio.,negativo
+Razer Blade 14,La calidad del aluminio unibody es premium y el rendimiento de juego supera a mi PC de escritorio.,positivo
+Lenovo IdeaPad Slim 3,"Sirve para tareas escolares y Classroom, pero se nota lenta si abres más de 5 pestañas en el navegador.",neutral
+ASUS TUF Gaming F15,"Se apaga sola por sobrecalentamiento a los 20 minutos de juego, la ventilación de fábrica es basura.",negativo
+Lenovo ThinkPad T14,"Un tanque de batalla para el trabajo diario en campo, el teclado sigue siendo el rey indiscutible.",positivo
+HP Victus 16,"La pantalla a 144Hz es muy fluida, pero el software Omen Gaming Hub se traba constantemente.",neutral
+Acer Swift Edge 16,"La duración de la batería es un chiste, no aguanta ni una película de dos horas sin apagarse.",negativo
+ASUS ROG Strix G16,La pantalla Nebula tiene un contraste espectacular y la tarjeta gráfica corre todo en ultra.,positivo
+Acer Swift Go 14,"Muy portátil y rápida en el día a día, aunque la webcam integrada da una imagen bastante granulada.",neutral
+Huawei MateBook D16,"La tarjeta de red Wi-Fi falla todo el tiempo, se desconecta a mitad de mis videollamadas de trabajo.",negativo
+HP Envy x360,El modo tablet es súper cómodo para tomar notas con el lápiz y la pantalla responde al más mínimo toque.,positivo
+Dell Inspiron 14,"Una laptop confiable para ver correos y multimedia, aunque el ventilador suena fuerte por cualquier proceso.",neutral
+Microsoft Surface Laptop 7,El cargador original dejó de pasar corriente a las dos semanas y el repuesto oficial es ridículamente caro.,negativo
+Acer Swift Go 14,"La mejor relación calidad-precio si buscas una pantalla OLED, los negros son puros y los colores resaltan.",positivo
+MacBook Pro 14 M4,"El rendimiento sobra para casi todo, pero pagar la diferencia con la Air solo por los puertos no siempre se justifica.",neutral
+Razer Blade 16,La batería se infló a los 9 meses de uso moderado y deformó por completo el trackpad de aluminio.,negativo
+LG Gram 17,"No puedo creer lo ligera que es para tener una pantalla tan grande, ideal para trabajar en cafeterías.",positivo
+Razer Blade 14,"El diseño es espectacular y minimalista, pero la vida útil de la batería bajó notablemente tras medio año.",neutral
+Framework Laptop 16,"Los módulos intercambiables tienen demasiados fallos de compatibilidad, paso más tiempo arreglando bugs que trabajando.",negativo
+Microsoft Surface Laptop 7,El trackpad de cristal es sumamente preciso y la integración con los gestos de Windows funciona de lujo.,positivo
+Lenovo ThinkPad E14,"El teclado es comodísimo para redactar por horas, aunque el diseño se ve tosco frente a la competencia.",neutral
+Lenovo Yoga Slim 7,"Los altavoces integrados empezaron a tronar y distorsionar el sonido, la calidad de audio de fábrica es pésima.",negativo
+Framework Laptop 13,Me fascina poder actualizar los componentes internos por mi cuenta sin tener que desechar todo el chasis.,positivo
+Huawei MateBook D14,"El diseño metálico es muy elegante y limpio, pero conseguir refacciones oficiales es muy difícil en mi región.",neutral
+HP Omen Max 16,"El trackpad se queda hundido y no registra bien los clics, un fallo físico inaceptable en una laptop premium.",negativo
+Gigabyte Aorus 16,"Los discos SSD en configuración RAID son un rayo, las pantallas de carga de los juegos duran un parpadeo.",positivo
+LG Gram 16,"Es una pluma para transportarla a diario, sin embargo, el chasis se dobla tanto que da miedo romperla.",neutral
+Acer Aspire 5,"Se congela por completo incluso al intentar abrir carpetas básicas, el disco duro vino defectuoso de fábrica.",negativo
+MSI Modern 15,"Súper silenciosa y fresca para las clases en línea de los niños, no da ningún problema en el día a día.",positivo
+Acer Aspire 5,"El procesador rinde bien para tareas básicas, pero el trackpad se siente de plástico barato e impreciso.",neutral
+ASUS Vivobook 15,"La pantalla vino con un tinte amarillento de fábrica que no se puede calibrar, cansa la vista de inmediato.",negativo
+Dell Inspiron 16 Plus,"La claridad de audio con los altavoces Dolby Atmos es increíble, ya no necesito usar bocinas externas.",positivo
+ASUS ROG Strix G16,"La potencia sobra para jugar en ultra, pero el cargador es gigante y pesa casi lo mismo que la laptop.",neutral
+Dell G15 Gaming,El software Alienware de fábrica consume demasiada memoria RAM en segundo plano y congela el sistema.,negativo
+Lenovo Legion Pro 5,Los 240Hz de refresco hacen que los juegos de disparos se sientan sumamente fluidos y competitivos.,positivo
+HP Envy x360,"La bisagra gira bien para usarla como tableta, pero el peso del equipo cansa tras sostenerla un rato.",neutral
+HP Envy x360,La pantalla táctil dejó de detectar mis dedos en la mitad de la pantalla justo al vencer la garantía.,negativo
+ASUS Zenbook S 13,"El grosor es mínimo y el rendimiento en multitarea es excelente, cabe en cualquier portafolios pequeño.",positivo
+Dell Latitude 5440,Una computadora de oficina genérica que cumple su horario de trabajo sin destacar en audio ni en pantalla.,neutral
+Lenovo IdeaPad 3,"El procesador se satura por completo con solo abrir tres pestañas de navegación, se traba constantemente.",negativo
+Lenovo Yoga 7i,La pantalla táctil es súper responsiva y el brillo es excelente para ver contenido en habitaciones oscuras.,positivo
+Lenovo Yoga 7i,"La pantalla es muy nítida y fluida, pero el acabado brillante refleja demasiado la luz en interiores de oficinas.",neutral
+MSI Stealth 14,La batería desaparece por completo en menos de una hora y media si no estás pegado al enchufe de la pared.,negativo
+ASUS ROG Flow Z13,Es una maravilla de ingeniería; tener una tableta tan potente que corra juegos modernos es increíble.,positivo
+MSI Katana 17,"El tamaño de la pantalla es genial para jugar cómodo, pero la calidad de los plásticos cruje al mover la tapa.",neutral
+Acer Predator Helios,Los puertos USB empezaron a falsear uno por uno a los pocos meses; ahora solo me sirve uno de milagro.,negativo
+MacBook Pro 14 M4 Pro,Los puertos Thunderbolt adicionales y el rendimiento de la GPU hacen que valga cada centavo para los creadores.,positivo
+MacBook Pro 16 M4,"Es una máquina impresionante en potencia, pero el costo es prohibitivo si solo la quieres para oficina.",neutral
+Gigabyte Aorus 15,La retroiluminación del teclado parpadea de forma errática y el soporte técnico no me da ninguna solución.,negativo
+Acer Swift Go 14,El teclado es muy suave al tacto y el rendimiento del procesador maneja la multitarea sin pestañear.,positivo
+Microsoft Surface Pro 11,"El hardware y la pantalla son una maravilla, pero que te vendan el teclado por separado a ese precio es excesivo.",neutral
+Samsung Galaxy Book4,El trackpad es indomable; el cursor salta de un lado a otro de la pantalla y da clics fantasma todo el tiempo.,negativo
+ASUS Vivobook S 15,Los materiales del chasis se sienten premium y el sistema de sonido firmado por Harman Kardon es genial.,positivo
+Samsung Galaxy Book4 Pro,"Es sumamente delgada y atractiva, aunque tiende a calentarse de más si trabajas con un monitor externo.",neutral
+LG Gram 17,"La flexibilidad de la pantalla es tanta que si la levantas apurada con una mano, el panel se apaga de golpe.",negativo
+HP Pavilion Plus 14,La resolución de la pantalla de 120Hz es fantástica y hace que todo el texto se lea de forma super nítida.,positivo
+Acer Predator Helios Neo,"El rendimiento en juegos exigentes es muy sólido, pero el software oficial de control de luces es inestable.",neutral
+MacBook Pro 14 M4,El puerto MagSafe vino flojo de fábrica; se desconecta y deja de cargar con cualquier vibración del escritorio.,negativo
+Lenovo ThinkBook 16,El lector de huellas digitales es súper veloz y el teclado numérico integrado ayuda mucho en hojas de cálculo.,positivo
+ASUS Vivobook 15,"El peso y tamaño son excelentes para estudiantes, pero la batería no alcanza a cubrir una jornada de clases entera.",neutral
+ASUS TUF Gaming A15,La tarjeta Wi-Fi integrada es malísima; tengo el módem en la misma mesa y solo me detecta dos barras de señal.,negativo
+HP Chromebook x360,Arranca en menos de cinco segundos y la integración con las aplicaciones de Google es perfecta para la escuela.,positivo
+HP Chromebook x360,"El sistema es ágil para navegar en la web, pero te sientes muy limitado si requieres instalar software local pesado.",neutral
+HP Pavilion Plus 14,Los ventiladores emiten un chirrido metálico constante e insoportable que no se quita ni limpiando las rejillas.,negativo
+Dell G16 Gaming,La potencia gráfica es impresionante; corre títulos de última generación en configuraciones máximas sin problemas.,positivo
+Lenovo ThinkBook 16,"El formato de pantalla 16:10 es comodísimo para programar, pero el brillo máximo se queda corto en exteriores.",neutral
+Lenovo Legion 5,El acabado del chasis es pésimo; la pintura gris se está pelando en las zonas donde descansan las muñecas.,negativo
+Razer Blade 16,La pantalla mini-LED ofrece una de las mejores experiencias visuales que existen actualmente en el mercado.,positivo
+Dell G16 Gaming,"Su rendimiento en juegos es excelente, pero los ventiladores suenan como turbina de avión incluso en el menú principal.",neutral
+Microsoft Surface Pro 11,El sistema operativo se congela por completo en el logo de carga y tengo que formatearla seguido para que reaccione.,negativo
+Lenovo Legion Slim 5,"El teclado tiene una respuesta táctil perfecta para jugar y trabajar, y el chasis de aluminio se siente muy firme.",positivo
+Razer Blade 16,"Los materiales de construcción son impecables, pero el servicio de soporte técnico de la marca tarda semanas en responder.",neutral
+Dell Inspiron 14,El sistema de audio integrado es bajísimo; incluso al 100% de volumen cuesta escuchar los diálogos si hay ruido ambiental.,negativo
+ASUS ROG Zephyrus G16,"Es increíblemente delgada para la potencia gráfica que maneja, ideal para creadores que viajan seguido.",positivo
+LG Gram Style,"El efecto tornasol del chasis es único y muy estético, aunque las huellas de los dedos se quedan marcadas al instante.",neutral
+Acer Swift Go 14,"La cámara web integrada de 720p es un desastre total; la imagen se ve lavada, pixelada y con mucho ruido digital.",negativo
+LG Gram Pro 16,La ligereza de esta laptop es irreal; te olvidas por completo de que la traes cargando en la mochila todo el día.,positivo
+MSI Stealth 14,"Es una laptop sumamente potente para su tamaño compacto, aunque la batería se agota por completo en unas dos horas.",neutral
+Razer Blade 14,El chasis levanta tanta temperatura que el sistema entra en protección térmica y se apaga a mitad de mis partidas.,negativo
+Microsoft Surface Go 4,Es el tamaño perfecto para llevar a conferencias y tomar notas rápidas sin que te estorbe en las manos.,positivo
+Framework Laptop 13,"Apoyo totalmente la iniciativa del diseño reparable, pero el costo de los módulos es elevado frente a laptops estándar.",neutral
+Alienware m16 R2,"El peso del equipo es una tortura para la espalda; sumando el cargador que parece un ladrillo, es imposible de transportar.",negativo
+Acer Swift X 14,La combinación de un procesador eficiente y gráficos dedicados la convierten en una gran opción para edición de video.,positivo
+ASUS ROG Flow Z13,"Es una propuesta híbrida súper innovadora, pero el teclado magnético es algo incómodo si trabajas sobre las piernas.",neutral
+Dynabook Portege,El sensor de huellas digitales es sumamente impreciso; casi nunca desbloquea a la primera y tengo que usar PIN.,negativo
+HP EliteBook 840,La seguridad empresarial por hardware te da mucha tranquilidad y la pantalla tiene una privacidad excelente.,positivo
+Lenovo IdeaPad Flex 5,"Funciona de manera decente como un equipo convertible económico, pero las bisagras hacen crujidos tras unos meses.",neutral
+MSI Modern 15,La bisagra interna se rompió por completo con un uso normal; ahora la pantalla se va de lado y no se sostiene sola.,negativo
+MacBook Pro 14 M4,La duración de la batería editando audio profesional es una locura; me olvido por completo del cargador en el estudio.,positivo
+MacBook Air M4,"El incremento a 16GB de memoria RAM base es un gran acierto, pero Apple sigue cobrando demasiado por subir el almacenamiento.",neutral
+ASUS Vivobook 15,El teclado no es retroiluminado y las letras se empezaron a borrar al segundo mes de uso escolar diario.,negativo
+HP Spectre x360,La pantalla OLED tiene un contraste infinito y los colores se ven tan vivos que da gusto ver películas en ella.,positivo
+HP EliteBook 840,"El rendimiento en videollamadas y multitarea es impecable, pero el audio de las bocinas suena plano y sin graves.",neutral
+Dell G15 Gaming,"El chasis es tosco, pesado y utiliza plásticos de baja calidad que crujen al aplicar un poco de presión en el teclado.",negativo
+Samsung Galaxy Book5 Pro,El ecosistema con los dispositivos de la marca funciona de maravilla; pasas archivos y fotos en un segundo.,positivo
+Lenovo Legion Slim 5,"El rendimiento de los componentes es impecable, pero el acabado gris mate se raya con facilidad al meterlo a la mochila.",neutral
+HP Envy x360,"La pantalla táctil empezó a registrar toques fantasmas por toda la superficie, volviendo loco el cursor de Windows.",negativo
+Dell Latitude 7450,La construcción en fibra de carbono la hace súper resistente a golpes y el teclado es muy cómodo para la oficina.,positivo
+ASUS Zenbook 14 OLED,"El diseño y la calidad visual de la pantalla son lo mejor del equipo, pero el desbloqueo facial suele fallar con poca luz.",neutral
+Lenovo IdeaPad 3,El chasis de plástico se siente tan endeble que se dobla por completo al presionar el centro del teclado.,negativo
+ASUS Zenbook Duo,"Trabajar con dos pantallas completas en cualquier cafetería duplica mi productividad, es una obra de arte.",positivo
+Acer Swift Edge 16,"Es impresionantemente delgada para sus 16 pulgadas de tamaño, pero la duración de la batería deja mucho que desear.",neutral
+ASUS Zenbook 14 OLED,"El molesto quemado de imagen apareció en la pantalla tras solo 4 meses de uso estático, una decepción total.",negativo
+MSI Prestige 16,La precisión de color de este panel es perfecta para diseño gráfico y el rendimiento con suites de Adobe es brutal.,positivo
+Dell Vostro 3530,"Cumple perfectamente como un equipo de batalla para el trabajo administrativo diario, aunque sus ángulos de visión son muy reducidos.",neutral
+HP EliteBook 840,El teclado es sumamente ruidoso y las teclas bailan un poco al escribir; no se siente como un equipo premium.,negativo
+Huawei MateBook D14,La carga rápida por USB-C es una maravilla; en media hora recuperas la batería suficiente para varias horas de trabajo.,positivo
+Samsung Galaxy Book4 Ultra,"Ofrece una potencia gráfica de primer nivel y una pantalla hermosa, pero el ventilador emite un silbido agudo algo molesto.",neutral
+Lenovo Legion Slim 5,Sufre de pantallazos azules aleatorios constantes desde la última actualización de firmware y el soporte no da soluciones.,negativo
+Acer Swift 3,El chasis de aluminio cepillado resiste muy bien los rayones y la laptop enciende en menos de 5 segundos.,positivo
+MSI Prestige 16,"Una excelente opción para creadores de contenido ligeros, aunque el trackpad es gigante y detecta toques accidentales con la palma.",neutral
+Acer Spin 5,El lápiz óptico dejó de recargarse en su ranura interna de la nada y ahora toda la función táctil no me sirve.,negativo
+Microsoft Surface Laptop Go 3,"El diseño es sumamente compacto y tierno, ideal para llevar a la escuela sin que te pese nada en la mochila.",positivo
+Huawei MateBook X Pro,"La ingeniería y acabados del hardware son de primer nivel, pero la falta de garantía extendida oficial en mi país da desconfianza.",neutral
+Dell Latitude 7450,La batería drena un 20% de su capacidad total durante las noches estando apagada; un fallo de energía inaceptable.,negativo
+Gigabyte Aero 16,"La calibración de color de fábrica ahorra muchísimo tiempo a los fotógrafos profesionales, el panel es increíble.",positivo
+Microsoft Surface Go 4,"Funciona excelente como un dispositivo secundario para revisar correos en viajes, pero se satura si abres muchas pestañas.",neutral
+MSI Pulse 15,"Los altavoces integrados son una basura; el audio suena metálico, sin cuerpo y peor que un teléfono de gama media.",negativo
+Alienware m16 R2,El teclado mecánico Cherry que incluye es una delicia táctil tanto para redactar textos como para jugar a nivel competitivo.,positivo
+Gigabyte Aero 16,"El panel muestra imágenes espectaculares para edición, pero la distribución del teclado es algo extraña y cuesta acostumbrarse.",neutral
+MacBook Air M4,El almacenamiento de entrada es una burla absoluta por el precio; se llena por completo con el sistema y tres programas.,negativo
+HP Omen 16,El sistema de ventilación de doble entrada mantiene la laptop fresca incluso jugando títulos demandantes en verano.,positivo
+ASUS ROG Ally X,"Como consola portátil con poder de PC es genial, pero la interfaz de Windows 11 no se siente optimizada para pantallas chicas.",neutral
+Samsung Galaxy Book4 Edge,Incompatibilidad absoluta con mis programas de simulación e ingeniería; este procesador ARM es un adorno inservible para profesionales.,negativo
+Dell Inspiron 16,La relación de aspecto de la pantalla es comodísima para leer PDFs largos y documentos de texto sin cansar la vista.,positivo
+Lenovo ThinkPad X1 Carbon,"Sigue manteniéndose como la laptop ejecutiva por excelencia, pero su precio sube cada año sin cambios que lo justifiquen.",neutral
+Gigabyte G5,Levanta tanta temperatura al jugar que el plástico de la carcasa inferior comenzó a deformarse cerca de la ventilación.,negativo
+Acer Spin 3,El mecanismo de la bisagra se siente muy sólido y es ideal para poner la laptop en modo tienda y ver películas en la cama.,positivo
+HP Omen 16,"El rendimiento técnico y el enfriamiento son muy estables, pero el diseño estético de plástico gris se ve bastante genérico.",neutral
+ASUS Vivobook Go,El cable del cargador es de pésima calidad; se cuarteó y peló de los extremos a los pocos meses de uso escolar normal.,negativo
+ASUS Vivobook Pro 15,La pantalla OLED a 120Hz es un deleite visual y el procesador renderiza videos en 4K sin ningún esfuerzo.,positivo
+Acer Swift X 14,"Ofrece potencia gráfica decente en un cuerpo pequeño, pero la zona donde descansas las manos se calienta rápido.",neutral
+HP Omen 16,"El sensor de la tapa falla constantemente y la laptop piensa que está cerrada, apagando la pantalla a mitad de mi uso.",negativo
+Lenovo IdeaPad Gaming 3,"Por el precio que tiene, la tarjeta gráfica rinde excelente en juegos competitivos como Valorant y Counter-Strike.",positivo
+Lenovo IdeaPad Gaming 3,"Muy económica y rinde bien, pero la pantalla tiene una reproducción de color muy pobre para cualquier trabajo creativo.",neutral
+Lenovo IdeaPad Flex 5,La pintura del chasis es de muy baja calidad; comenzó a caerse y desteñirse con el simple sudor de mis manos.,negativo
+LG Gram Pro 16,La fluidez para trabajar en multitarea con bases de datos enormes es impecable y no pesa absolutamente nada.,positivo
+LG Gram Pro 16,"El rendimiento del procesador es muy fluido para oficina, pero el trackpad se siente algo esponjoso al hacer clic.",neutral
+Microsoft Surface Laptop Go 3,No incluir teclado retroiluminado en 2026 a este rango de precio es una burla total al consumidor; cuesta ver de noche.,negativo
+MacBook Pro 16 M4 Max,"Es una bestia indomable de procesamiento, compila código y procesa datos masivos en una fracción de tiempo.",positivo
+MacBook Pro 16 M4 Max,"Es técnicamente perfecta en pantalla y poder, pero pesa lo suficiente como para que te canses de cargarla todo el día.",neutral
+Acer Predator Triton,El ruido de los ventiladores es un silbido agudo y penetrante que me causa dolor de cabeza tras media hora de juego.,negativo
+HP Spectre x360,Los acabados premium en corte de diamante son hermosos y la pantalla táctil es de las más precisas del mercado.,positivo
+HP Spectre x360,"Los accesorios incluidos en la caja son de gran calidad, pero la batería dura mucho menos si usas la pantalla a máxima resolución.",neutral
+Dell Inspiron 16 Plus,El trackpad tiene un retraso de respuesta notable; el cursor se mueve medio segundo después de desplazar el dedo.,negativo
+Lenovo ThinkPad L14,"La resistencia de grado militar se nota en cada esquina, es una laptop hecha para durar muchos años en el trabajo.",positivo
+Lenovo ThinkPad L14,"Muy resistente para el trabajo rudo y portátil, pero la pantalla base de 250 nits es casi imposible de ver bajo luz solar.",neutral
+MSI Prestige 14,La cámara web es espantosa; la resolución es tan baja que en las juntas de la oficina parezco un dibujo pixelado.,negativo
+Dell G15 Gaming,"El rediseño del sistema térmico fue un acierto total, mantiene los componentes en buenas temperaturas bajo estrés.",positivo
+Dell G15 Gaming,"El rendimiento en juegos es muy estable por su precio, pero el chasis es tosco y utiliza demasiado plástico.",neutral
+Huawei MateBook X Pro,El servicio posventa en mi región es terrible; llevo un mes esperando una refacción que nunca llega al centro oficial.,negativo
+ASUS ROG Zephyrus G16,La pantalla Nebula y el diseño delgado de aluminio la convierten en la laptop más atractiva que he tenido.,positivo
+ASUS ROG Zephyrus G16,"Diseño elegante que no grita ""gamer"", pero la memoria RAM viene soldada a la placa y no se puede ampliar en el futuro.",neutral
+LG Gram Pro 16,El sistema de enfriamiento es tan deficiente que el procesador baja su velocidad al mínimo por cualquier tarea pesada.,negativo
+HP Pavilion Plus 14,La batería rinde excelentes ocho horas de uso continuo en la universidad y el teclado es muy cómodo de usar.,positivo
+ASUS Vivobook S 15,"El teclado retroiluminado es cómodo para redactar, pero la luz se filtra por los lados de las teclas y distrae de noche.",neutral
+Razer Blade 18,"Por el precio de un auto usado esperas un ensamblaje perfecto, pero mi equipo vino descuadrado y cojea en la mesa.",negativo
+Lenovo LOQ 16,El rendimiento técnico en renderizado cumple de sobra y el teclado tiene una distribución excelente para el día a día.,positivo
+Lenovo LOQ 16,"Una opción sólida para presupuestos medios, aunque los altavoces suenan bastante bajo incluso configurados al máximo.",neutral
+ASUS ROG Flow X13,El conector propietario externo para la GPU es extremadamente frágil; se rompió al tercer uso y repararlo es carísimo.,negativo
+Razer Blade 15,La tasa de refresco y el tiempo de respuesta de la pantalla son perfectos para shooters competitivos.,positivo
+Razer Blade 15,"Estética impecable, minimalista y elegante, pero la fuente de poder se calienta tanto que quema al tocarla.",neutral
+Lenovo ThinkBook 14,El lector de tarjetas SD dejó de funcionar al mes y el soporte dice que es daño accidental para no repararlo.,negativo
+ASUS Vivobook 16,El formato de pantalla es comodísimo para leer artículos largos y programar sin forzar la vista.,positivo
+ASUS Vivobook 16,"Pantalla amplia y cómoda para leer, pero los materiales se sienten menos duraderos que en la línea Zenbook.",neutral
+HP Pavilion Plus,"La pantalla tiene un parpadeo constante cuando el brillo está bajo, es imposible trabajar sin que me duela la vista.",negativo
+Lenovo Yoga 9i,La calidad de construcción y la versatilidad de la bisagra hacen que valga cada centavo para diseño.,positivo
+Lenovo Yoga 9i,"La barra de sonido integrada suena genial, pero el mecanismo de rotación se siente un poco flojo tras meses de uso.",neutral
+ASUS ExpertBook,"Las teclas se borraron en menos de tres meses de uso de oficina, la calidad de impresión es lamentable.",negativo
+HP Elite Dragonfly,"Es la laptop de negocios más ligera y segura que he usado, la duración de la batería es sobresaliente.",positivo
+HP Elite Dragonfly,"Excelente para seguridad empresarial y muy ligera, pero el precio es alto comparado con una MacBook Pro.",neutral
+Dell Vostro 3530,"Es desesperadamente lenta incluso con el disco SSD, Windows tarda siglos en iniciar cada mañana.",negativo
+Acer Predator Triton,"El rendimiento gráfico en juegos de mundo abierto es una locura, mantiene FPS muy estables.",positivo
+Acer Predator Triton,"Es delgada para ser un equipo gaming, pero eso hace que los ventiladores tengan que girar siempre al máximo.",neutral
+Acer Swift Go 14,El chasis de aluminio se siente tan delgado que cruje si la levantas con una sola mano desde un borde.,negativo
+MSI Modern 14,Es sumamente compacta y perfecta para llevar a la universidad a diario sin que estorbe en la mochila.,positivo
+MSI Modern 14,"Diseño elegante y compacto, pero el rendimiento cae notablemente cuando se usa solo con la batería.",neutral
+MSI Katana 15,"La batería se descarga un 15% cada hora incluso cuando la laptop está suspendida, una gestión energética atroz.",negativo
+Dell XPS 16 (2026),"La potencia de procesamiento para renders 3D es absurda, ahorra horas de trabajo en proyectos pesados.",positivo
+Dell XPS 16 (2026),"La potencia es increíble para renderizado, pero el teclado con teclas pegadas requiere una curva de aprendizaje.",neutral
+MacBook Pro 14 M4,"El puerto de audífonos tiene estática constante, para un equipo de producción de audio es inaceptable.",negativo
+Framework Laptop 16,Me encanta la filosofía de poder reparar y actualizar absolutamente todo por mi propia cuenta.,positivo
+Framework Laptop 16,"La idea de los módulos es brillante, pero el ensamblaje final no se siente tan rígido como una laptop unibody.",neutral
+Microsoft Surface Pro 11,Se calienta tanto cargando que la pantalla baja el brillo al 20% y no te deja subirlo hasta que se enfríe.,negativo
+Samsung Galaxy Book5 Pro,La ligereza combinada con la pantalla AMOLED de última generación ofrece una experiencia de uso increíble.,positivo
+Samsung Galaxy Book5 Pro,"Muy ligera para su tamaño, pero el software preinstalado de Samsung ocupa demasiado espacio innecesario.",neutral
+Samsung Galaxy Book5,"El teclado tiene un recorrido tan corto que no sabes si realmente presionaste la tecla o no, es muy incómodo.",negativo
+ASUS ROG Flow X13,El concepto de laptop gamer ultraportátil convertible está perfectamente ejecutado en este equipo.,positivo
+ASUS ROG Flow X13,"Es un concepto 2 en 1 único para jugar y diseñar, pero la duración de la batería en modo tablet decepciona.",neutral
+Razer Blade 15,El pegamento de las gomas de la base se derritió por el calor y ahora la laptop se desliza por todo el escritorio.,negativo
+Lenovo ThinkPad P1,Es la workstation definitiva; el rendimiento con simulaciones de datos pesadas es simplemente impecable.,positivo
+Lenovo ThinkPad P1,"Una workstation muy capaz y robusta, pero el cargador propietario es enorme y difícil de conseguir si se rompe.",neutral
+Alienware x14 R2,"El centro de control de luces nunca guarda mis perfiles, tengo que configurarlo cada vez que la enciendo.",negativo
+HP Pavilion Aero,"Pesa menos de un kilo, lo que la hace la compañera ideal para viajar ligero sin perder potencia en la oficina.",positivo
+HP Pavilion Aero,"Pesa menos de un kilo lo cual es fantástico, pero el trackpad es pequeño y se siente algo inestable.",neutral
+HP Envy 17,"Es demasiado ruidosa para un equipo que no es gaming, parece que tiene un soplador de hojas por dentro.",negativo
+LG Gram SuperSlim,El grosor es mínimo y la pantalla OLED es un deleite visual para consumir contenido multimedia.,positivo
+LG Gram SuperSlim,"La delgadez es impactante, pero debido a eso el teclado tiene muy poco recorrido y cansa al escribir mucho.",neutral
+Lenovo Yoga 9i,"La pantalla táctil registra toques fantasma todo el tiempo, el cursor se vuelve loco y cierra mis ventanas.",negativo
+Acer Nitro 17,El espacio visual es enorme y la tasa de refresco a 165Hz hace que todo se mueva con gran suavidad.,positivo
+Acer Nitro 17,"Buena visibilidad por su gran tamaño, pero es tan grande que no cabe en compartimentos estándar de equipaje.",neutral
+Acer Nitro 17,"La resolución de la pantalla es muy baja para ese tamaño de 17 pulgadas, todo se ve pixelado y borroso.",negativo
+Gigabyte G5,La relación calidad-precio en componentes es excelente; obtuve gráficos dedicados por un presupuesto muy bajo.,positivo
+Gigabyte G5,"Los componentes internos son potentes, pero la pantalla tiene una fuga de luz notable en los bordes negros.",neutral
+ASUS ROG Strix G18,Vino con tres pixeles muertos y el servicio técnico dice que necesito tener cinco para que aplique la garantía.,negativo
+MacBook Pro 14 M4 Pro,El rendimiento del chip M4 Pro supera todo lo conocido; la edición en múltiples pistas de audio es instantánea.,positivo
+MacBook Pro 14 M4 Pro,"La potencia sobra para casi todo, pero Apple sigue siendo tacaña con el almacenamiento en el modelo de entrada.",neutral
+LG Gram SuperSlim,"La pantalla es tan delgada que se dobla con solo abrirla desde una esquina, da miedo que se rompa el panel.",negativo
+Huawei MateBook X Pro,La pantalla táctil y los gestos sobre el trackpad son intuitivos y facilitan el flujo de trabajo diario.,positivo
+Huawei MateBook X Pro,"El peso es ideal para viajes de negocios, pero la posición de la cámara web sigue siendo algo incómoda para el ángulo.",neutral
+Framework Laptop 13,"Las expansiones de USB se desconectan solas si mueves un poco la laptop, la conexión no es firme.",negativo
+Dynabook Tecra,"Es un equipo corporativo sumamente confiable y duradero, ideal para bases de datos masivas en la oficina.",positivo
+Dynabook Tecra,"Muy confiable para bases de datos y seguridad, pero el diseño estético se quedó estancado en la década pasada.",neutral
+Gigabyte Aero 16,"El sistema de audio es patético, mi teléfono suena más fuerte y con mejor calidad que esta laptop de diseño.",negativo
+HP Envy 17,"La pantalla es gigante y hermosa, perfecta para sustituir una computadora de escritorio en el hogar.",positivo
+HP Envy 17,"Pantalla enorme ideal para ver películas, pero el tamaño la hace muy difícil de manejar en aviones o trenes.",neutral
+Dynabook Tecra,"El teclado no es retroiluminado y por este precio es una estafa, además el diseño es de hace 15 años.",negativo
+Dell XPS 14 (2026),La pantalla OLED InfinityEdge ofrece una de las mejores experiencias visuales del mercado tecnológico actual.,positivo
+Dell XPS 14 (2026),"La pantalla OLED es espectacular, pero solo tener puertos USB-C es una decisión que sigue siendo molesta.",neutral
+HP Victus 16,"El puerto de carga está flojo desde el primer día, tengo que acomodar el cable con cuidado para que cargue.",negativo
+MacBook Air M4,El color medianoche tiene un acabado precioso y elegante que destaca a primera vista.,positivo
+MacBook Air M4,"El color medianoche es hermoso, pero es un imán de huellas dactilares y siempre parece estar sucia.",neutral
+MacBook Air M4,"El puerto USB-C del lado izquierdo dejó de reconocer dispositivos a los dos meses, reparación carísima.",negativo
+Lenovo LOQ 16,Es la mejor opción para presupuestos ajustados que quieren jugar a tasas de refresco altas y estables.,positivo
+ASUS Vivobook S 15,"La pantalla tiene buena resolución, pero el brillo máximo se queda algo corto en terrazas o exteriores.",neutral
+Lenovo Legion 7i,"La iluminación RGB de la base empezó a fallar y ahora parpadea en rojo sin razón, el software no lo arregla.",negativo
+Acer Swift X 14,El rendimiento gráfico en programas de renderizado es impecable para un equipo tan compacto.,positivo
+MSI Katana 15,"El teclado numérico es una gran adición para productividad, aunque el recorrido de las teclas es algo estándar.",neutral
+ASUS Vivobook 16,La bisagra es tan dura que tienes que usar las dos manos para abrirla o sientes que vas a partir el marco.,negativo
+Samsung Galaxy Book4 Edge,La velocidad para abrir aplicaciones cotidianas y herramientas de oficina es simplemente instantánea.,positivo
+ASUS ROG Zephyrus G16,"El sistema de audio suena nítido y con buenos bajos, aunque el chasis vibra un poco al volumen máximo.",neutral
+HP Omen Max 16,"El rendimiento cae a la mitad si no está conectada a la corriente, incluso con el plan de energía en máximo.",negativo
+HP Pavilion Plus 14,El ventilador mantiene las temperaturas estables y el rendimiento general en multitarea es muy fluido.,positivo
+Lenovo IdeaPad Gaming 3,"El teclado se siente bastante cómodo para escribir rápido, pero los plásticos del chasis crujen un poco.",neutral
+Dell XPS 16 (2026),"La superficie de cristal del reposamuñecas se mancha de grasa permanentemente, es imposible mantenerla limpia.",negativo
+Microsoft Surface Laptop Go 3,La pantalla táctil es muy fluida y el diseño general de la laptop es sumamente estético.,positivo
+Alienware m16 R2,"El rendimiento gráfico es impecable, pero la duración de la batería usándola para oficina es muy promedio.",neutral
+Acer Predator Helios,La fuente de poder hace un ruido eléctrico agudo muy molesto que se escucha en toda la habitación.,negativo
+Alienware m16 R2,La potencia bruta de procesamiento permite jugar y hacer streaming al mismo tiempo sin ninguna caída de FPS.,positivo
+Acer TravelMate P2,"Es una laptop cumplidora para el trabajo de oficina, aunque la cámara web integrada tiene resolución básica.",neutral
+Microsoft Surface Laptop 7,"La pantalla es un imán de reflejos, es imposible usarla en una oficina con luces led sin quedar ciego.",negativo
+LG Gram Pro 16,El espacio de trabajo que da la pantalla de 16 pulgadas ayuda muchísimo a revisar planos detallados.,positivo
+HP Spectre x360,"El diseño convertible es muy práctico, pero la transición de software de laptop a tablet a veces se traba.",neutral
+MSI Alpha 17,"El teclado se siente esponjoso y las teclas se quedan trabadas a veces, muy mala calidad de construcción.",negativo
+Lenovo ThinkPad L14,"El teclado es una maravilla ergonómica, perfecto para redactar informes largos sin cansar los dedos.",positivo
+Lenovo ThinkPad L14,"Es un equipo corporativo muy robusto, pero el diseño estético es bastante cuadrado y tradicional.",neutral
+Samsung Galaxy Book4 Pro,"El Wi-Fi tiene un alcance bajísimo, a dos habitaciones del router pierdo la señal por completo.",negativo
+Dell G15 Gaming,La autonomía de la batería ha mejorado bastante en navegación web comparado con la generación anterior.,positivo
+MacBook Air M4,"El rendimiento por watt es insuperable, pero la limitación de conectar solo dos monitores externos sigue ahí.",neutral
+Framework Laptop 16,"Los ventiladores emiten un sonido vibrante que indica un mal rodamiento de fábrica, control de calidad pobre.",negativo
+Lenovo Yoga 9i,La pantalla rota con una suavidad increíble y la fidelidad del color en el panel OLED es espectacular.,positivo
+Lenovo Yoga 9i,"La barra de sonido suena genial, pero el mecanismo de rotación se siente un poco flojo tras meses de uso.",neutral
+ASUS ROG Flow Z13,"La batería dura menos de una hora jugando, básicamente es una PC de escritorio con una pantalla pegada.",negativo
+Acer Predator Triton,La pantalla a alta tasa de refresco da una ventaja competitiva enorme en cualquier juego de disparos.,positivo
+Acer Predator Triton,"Es delgada para ser gaming, pero eso hace que los ventiladores tengan que girar al máximo y hagan mucho ruido.",neutral
+Lenovo ThinkPad P1,"Se calienta tanto bajo carga que el sistema se apaga por seguridad, no sirve para trabajos pesados largos.",negativo
+Microsoft Surface Pro 11,El nuevo procesador ARM le da una velocidad de arranque alucinante y la batería dura todo el día de trabajo.,positivo
+Microsoft Surface Pro 11,"El teclado Flex es muy cómodo, pero la conexión magnética a veces se suelta si no estás en una mesa plana.",neutral
+HP Pavilion Aero,"El trackpad es tan pequeño que navegar por la pantalla es frustrante, además de ser muy ruidoso al clic.",negativo
+MSI Modern 14,"El teclado es súper silencioso, ideal para trabajar de noche en la habitación sin despertar a nadie.",positivo
+MSI Modern 14,"Diseño elegante y compacto, pero el rendimiento cae notablemente cuando se usa solo con la batería.",neutral
+LG Gram Pro,"El audio por audífonos tiene un siseo constante, parece un problema de aislamiento en la placa base.",negativo
+Dell XPS 16 (2026),"La pantalla InfinityEdge casi no tiene marcos, se ve súper futurista y aprovecha al máximo el espacio.",positivo
+Dell XPS 16 (2026),"La potencia es increíble para renderizado, pero el teclado con teclas pegadas requiere una curva de aprendizaje.",neutral
+Acer Nitro V 15,La pantalla tiene un sangrado de luz en los bordes que arruina cualquier película o juego con escenas oscuras.,negativo
+Framework Laptop 16,La modularidad para cambiar puertos sobre la marcha según lo que necesites es la mejor idea del mercado.,positivo
+Framework Laptop 16,"La idea de los módulos es brillante, pero el ensamblaje final no se siente tan rígido como una laptop unibody.",neutral
+Gigabyte G5,El plástico del chasis se siente tan hueco que da la impresión de que se va a romper con cualquier golpe.,negativo
+Samsung Galaxy Book5 Pro,La integración con la tablet Samsung como segunda pantalla inalámbrica funciona de forma impecable.,positivo
+Samsung Galaxy Book5 Pro,"Muy ligera para su tamaño, pero el software preinstalado de Samsung ocupa demasiado espacio innecesario.",neutral
+MacBook Pro 16 M4 Max,"El sistema operativo se congela al usar monitores externos de otras marcas, un bug que Apple no ha resuelto.",negativo
+ASUS ROG Flow X13,El rendimiento gráfico combinado con la versatilidad del modo tablet la hacen única en su tipo.,positivo
+ASUS ROG Flow X13,"Es un concepto 2 en 1 único, pero la duración de la batería en modo tablet es bastante decepcionante.",neutral
+Huawei MateBook D14,"El ventilador empezó a raspar contra algo interno a los pocos días, tuve que devolverla por miedo a incendio.",negativo
+HP Pavilion Aero,No pesa absolutamente nada y la pantalla tiene un brillo excelente para trabajar cerca de ventanas.,positivo
+HP Pavilion Aero,"Pesa menos de un kilo lo cual es fantástico, pero el trackpad es pequeño y se siente algo inestable.",neutral
+MSI Modern 14,"La potencia de recepción de Bluetooth es pésima, mis audífonos se desconectan si muevo la cabeza.",negativo
+Dell Inspiron 15,El teclado numérico completo facilita enormemente el vaciado de datos y la contabilidad diaria.,positivo
+Dynabook Tecra,"Muy confiable para bases de datos, pero el diseño estético se quedó estancado en la década pasada.",neutral
+Dell Inspiron 15,"Se siente como una laptop de hace 8 años, pesada, lenta y con una pantalla que tiene colores horribles.",negativo
+ASUS Zenbook 14 OLED,La pantalla OLED es una locura absoluta; ver películas o editar fotos aquí es una experiencia de otro nivel.,positivo
+Acer Aspire 5,"Es un equipo decente para tareas de oficina, pero los materiales de plástico crujen un poco al cerrarla.",neutral
+HP Victus 15,Se calienta tanto jugando que el teclado quema los dedos y el rendimiento cae a la mitad a los 15 minutos.,negativo
+MacBook Air M4,El rendimiento del chip M4 en multitarea es impecable y la laptop no hace absolutamente nada de ruido.,positivo
+Lenovo IdeaPad Slim 3,"Sirve bien para las clases en línea y tareas escolares, aunque la pantalla se ve algo lavada de lado.",neutral
+Dell Inspiron 15,El disco duro de fábrica es lentísimo; Windows tarda una eternidad en arrancar y todo se traba constantemente.,negativo
+Lenovo Legion Pro 5,"La fluidez de los 240Hz en juegos competitivos te da una ventaja brutal, el rendimiento es una joya.",positivo
+HP Pavilion 15,"Cumple con lo básico para el día a día en casa, pero la batería apenas llega a las 3 horas de uso continuo.",neutral
+ASUS TUF Gaming F15,La tarjeta Wi-Fi integrada falló al segundo mes; se desconecta sola a mitad de mis partidas en línea.,negativo
+HP OmniBook Ultra,La duración de la batería con este nuevo procesador es irreal; aguanta toda mi jornada laboral sin conectarse.,positivo
+Dell XPS 13 (2026),"El diseño sin bordes es hermoso y futurista, pero carece de puertos tradicionales y dependes de adaptadores.",neutral
+Acer Nitro V 15,El trackpad vino flojo de fábrica y hace un ruido molesto cada vez que apoyas el dedo sin llegar a hacer clic.,negativo
+Samsung Galaxy Book4 Edge,El encendido instantáneo gracias a la arquitectura ARM hace que se sienta tan rápida como un celular premium.,positivo
+MSI Modern 15,"Es una laptop muy ligera y fácil de transportar, pero el brillo máximo se queda muy corto bajo la luz del sol.",neutral
+Razer Blade 14,El pegamento de las gomas de la base se derritió por el calor del equipo y ahora baila en el escritorio.,negativo
+MSI Stealth 16,"El balance perfecto: estética sobria y elegante para juntas de trabajo, pero con poder de sobra para jugar en ultra.",positivo
+Gigabyte G5,"La potencia gráfica es muy buena para su precio, pero los ventiladores suenan como turbina de avión en todo momento.",neutral
+Huawei MateBook D16,La bisagra es sumamente frágil; se rompió por dentro con el uso normal de abrir y cerrar la laptop en la oficina.,negativo
+Huawei MateBook X Pro,"No pesa absolutamente nada, el chasis metálico se siente premium y la portabilidad es simplemente imbatible.",positivo
+ASUS TUF Gaming A15,"Corre todos los juegos actuales en gráficos altos, pero la fidelidad de color de la pantalla deja mucho que desear.",neutral
+Lenovo ThinkPad X1 Carbon,El software de actualización original congeló la tarjeta madre y la laptop quedó completamente inservible.,negativo
+Acer Nitro 16,El sistema de enfriamiento es una maravilla; mantiene las temperaturas bajo control incluso renderizando video pesado.,positivo
+Microsoft Surface Laptop 7,"La calidad de construcción es excelente, pero la compatibilidad de software en ARM todavía da algunos dolores de cabeza.",neutral
+MSI Katana 15 HX,El teclado se siente súper esponjoso y las teclas de dirección se quedan trabadas si las presionas rápido.,negativo
+Framework Laptop 13,Me fascina la libertad de poder abrir el equipo y cambiar los puertos o componentes yo mismo sin perder la garantía.,positivo
+LG Gram 16,"Pesa tan poco que parece de juguete, lo malo es que el teclado flexiona demasiado si escribes con algo de fuerza.",neutral
+HP Envy x360,"La pantalla táctil empezó a registrar toques fantasma por todos lados, cerrando mis ventanas y programas sola.",negativo
+Dell Latitude 7450,Un equipo empresarial perfecto; la batería dura horas y el teclado es el más cómodo para redactar informes largos.,positivo
+Acer Swift Go 14,"Es rápida para el día a día y la pantalla tiene buena resolución, pero la cámara web integrada da una imagen muy borrosa.",neutral
+Microsoft Surface Pro 11,El sistema operativo se congela aleatoriamente en la pantalla de carga y la única solución es forzar el reinicio.,negativo
+HP Envy x360,"El lápiz óptico desliza con una suavidad increíble en la pantalla, ideal para ilustradores y diseñadores.",positivo
+Dell Inspiron 14,"Una laptop muy aguantadora para ver contenido y tareas del hogar, aunque el ventilador es algo ruidoso.",neutral
+Acer Swift Edge 16,La duración de la batería es una burla; no me aguanta ni una clase de dos horas sin apagarse por completo.,negativo
+Acer Swift Go 14,"Por el precio que tiene, la pantalla OLED te da unos negros puros y colores vivos que no encuentras en otra marca.",positivo
+MacBook Pro 14 M4,"El poder de procesamiento es excelente, pero la diferencia de precio con la Air no se justifica para la mayoría.",neutral
+HP Omen 16,El sensor de la tapa vino defectuoso; detecta que está cerrada a mitad de una partida y me apaga la pantalla.,negativo
+LG Gram 17,Es impresionante cómo metieron una pantalla tan grande en un chasis que puedes levantar con un solo dedo.,positivo
+Razer Blade 14,"La estética minimalista de aluminio es hermosa, pero la vida útil de la batería cae rápido tras unos meses.",neutral
+Lenovo IdeaPad Flex 5,El acabado del chasis es pésimo; la pintura se empezó a descascarar con el simple roce de mis muñecas.,negativo
+Microsoft Surface Laptop 7,"El trackpad háptico es el más preciso que he probado en Windows, los gestos responden al instante.",positivo
+Lenovo ThinkPad E14,"El teclado es una delicia para programar por horas, aunque visualmente el diseño se quedó muy anticuado.",neutral
+ASUS Vivobook Go,El cargador es una porquería; el cable se abrió de los extremos con un uso escolar sumamente cuidadoso.,negativo
+Framework Laptop 13,Me vuela la cabeza poder comprar módulos y actualizar la placa madre en el futuro sin tirar el chasis.,positivo
+Huawei MateBook D14,"El diseño metálico se siente elegante en la mano, pero conseguir refacciones originales es casi imposible aquí.",neutral
+Dell Latitude 7450,La batería se drena un 25% durante la noche estando completamente apagada; es un fallo de energía fatal.,negativo
+Gigabyte Aorus 16,El almacenamiento SSD en configuración RAID vuela; los juegos pesados cargan en menos de tres segundos.,positivo
+LG Gram 16,"Es una pluma para llevar a la oficina, pero el chasis es tan flexible que da miedo que se rompa al levantarla.",neutral
+MSI Pulse 15,"Los altavoces integrados son una basura; el audio suena plano, sin graves y distorsiona a volumen alto.",negativo
+MSI Modern 15,"Es súper silenciosa y se mantiene muy fresca, ideal para dejarla encendida toda la noche descargando archivos.",positivo
+Acer Aspire 5,"El rendimiento con el procesador Intel es bueno, pero el trackpad se siente de plástico corriente e impreciso.",neutral
+ASUS Zenbook 14 OLED,El temido quemado de imagen apareció en la pantalla a los 5 meses de uso de oficina; decepción total.,negativo
+Dell Inspiron 16 Plus,Los altavoces con Dolby Atmos tienen una claridad brutal; ya no necesito usar bocinas externas en mi cuarto.,positivo
+ASUS ROG Strix G16,"La potencia para jugar en ultra sobra, pero el cargador es un ladrillo gigante que pesa muchísimo.",neutral
+HP EliteBook 840,El teclado hace un ruido excesivo al escribir y las teclas se sienten flojas; no parece gama empresarial.,negativo
+Lenovo Legion Pro 5,Los juegos de carreras se ven increíblemente fluidos gracias a la tasa de refresco; una delicia visual.,positivo
+HP Envy x360,"El mecanismo de la bisagra gira con suavidad, pero el peso total del equipo cansa si la usas como tablet en el aire.",neutral
+Lenovo Legion Slim 5,Los pantallazos azules son constantes desde la última actualización de BIOS y el soporte no da soluciones.,negativo
+ASUS Zenbook S 13,"El grosor es mínimo y cabe en cualquier mochila pequeña, ideal para ejecutivos que viajan constantemente.",positivo
+Dell Latitude 5440,"Cumple su jornada de oficina sin problemas, pero la pantalla tiene colores muy opacos para ver multimedia.",neutral
+Acer Spin 5,El stylus dejó de cargar en su puerto interno y ahora la función 2 en 1 no me sirve para absolutamente nada.,negativo
+Lenovo Yoga 7i,La pantalla táctil reacciona al más mínimo toque y los niveles de brillo son excelentes para trabajar de noche.,positivo
+Lenovo Yoga 7i,"El panel tiene una nitidez excelente, pero el acabado brillante hace que los reflejos de la luz sean molestos.",neutral
+MSI Stealth 14,La batería es un chiste; se agota por completo en menos de una hora y media si te pones a editar video.,negativo
+ASUS ROG Flow Z13,Es una genialidad tener una tableta tan compacta con el poder gráfico necesario para correr juegos en ultra.,positivo
+MSI Katana 17,"La pantalla grande se agradece para jugar cómodo, pero la estructura de plástico cruje al abrir la tapa.",neutral
+Acer Predator Helios,Tres puertos USB dejaron de reconocer dispositivos de la nada; la calidad de los componentes internos es mala.,negativo
+MacBook Pro 14 M4 Pro,Los puertos Thunderbolt extra y la potencia de la GPU aceleran mis flujos de trabajo de diseño al doble.,positivo
+MacBook Pro 16 M4,"Es una máquina con un rendimiento impresionante, pero el costo es excesivo si solo la usas para tareas básicas.",neutral
+Gigabyte Aorus 15,El teclado RGB parpadea de forma errática y el software de la marca se traba cada vez que intento arreglarlo.,negativo
+Acer Swift Go 14,Las teclas se sienten sumamente suaves al tacto y el procesador no se inmuta al tener veinte pestañas abiertas.,positivo
+Microsoft Surface Pro 11,"La pantalla y el rendimiento son una maravilla, pero que el teclado se venda por separado a ese precio es un abuso.",neutral
+Samsung Galaxy Book4,El trackpad registra clics fantasma todo el tiempo y el cursor salta de un lado a otro sin que lo toque.,negativo
+ASUS Vivobook S 15,El chasis metálico se siente muy resistente al trato diario y los altavoces Harman Kardon suenan genial.,positivo
+Samsung Galaxy Book4 Pro,"El diseño es ultra delgado y muy elegante, pero se calienta bastante si le conectas una pantalla externa.",neutral
+LG Gram 17,"El panel es tan flexible que si levantas la laptop de una esquina con una sola mano, la pantalla se distorsiona.",negativo
+HP Pavilion Plus 14,La fluidez de los 120Hz en la pantalla hace que leer textos y navegar por la web sea muy cómodo para la vista.,positivo
+Acer Predator Helios Neo,"La potencia gráfica en juegos demandantes es impecable, pero el software de control de luces es inestable.",neutral
+MacBook Pro 14 M4,El conector MagSafe vino flojo de fábrica; se desconecta y deja de cargar con cualquier movimiento leve.,negativo
+Lenovo ThinkBook 16,El lector de huellas es instantáneo y la distribución del teclado numérico ayuda mucho a capturar datos rápidos.,positivo
+ASUS Vivobook 15,"El peso y el grosor son perfectos para traerla en la mochila, pero la batería no rinde una jornada escolar completa.",neutral
+ASUS TUF Gaming A15,La tarjeta de red inalámbrica es malísima; pierdo la señal del módem a pesar de estar en la misma habitación.,negativo
+HP Chromebook x360,Enciende en un par de segundos y la sincronización con los servicios de Google es perfecta para la escuela.,positivo
+HP Chromebook x360,"El sistema operativo es muy ágil en la web, pero te topas con pared si necesitas instalar programas locales pesados.",neutral
+HP Pavilion Plus 14,Los ventiladores emiten un zumbido agudo y metálico que resulta insoportable tras unos minutos de uso continuo.,negativo
+Dell G16 Gaming,La potencia de la tarjeta gráfica corre cualquier juego moderno en configuraciones máximas y sin caídas de FPS.,positivo
+Lenovo ThinkBook 16,"El formato de pantalla es excelente para ver más líneas de código, pero el brillo máximo se queda corto en exteriores.",neutral
+Lenovo Legion 5,La pintura del chasis es de mala calidad; empezó a pelarse justo en la zona donde descansan las muñecas al escribir.,negativo
+Razer Blade 16,"El panel mini-LED ofrece una fidelidad visual impresionante, los contrastes y los colores son de lo mejor del mercado.",positivo
+Dell G16 Gaming,"El rendimiento en juegos exigentes es brutal, pero los ventiladores hacen tanto ruido que parecen turbina de avión.",neutral
+Microsoft Surface Pro 11,Se congela por completo mostrando el logo de inicio de Windows y tengo que forzar el apagado seguido para que reaccione.,negativo
+Lenovo Legion Slim 5,"El teclado tiene un recorrido perfecto tanto para redactar como para jugar, y el chasis no flexiona nada.",positivo
+Razer Blade 16,"Los acabados de aluminio son impecables, pero el soporte técnico oficial tarda semanas en contestar un correo.",neutral
+Dell Inspiron 14,Las bocinas integradas suenan extremadamente bajo; cuesta escuchar los diálogos si hay el más mínimo ruido ambiental.,negativo
+ASUS ROG Zephyrus G16,"Es increíblemente delgada para los gráficos que maneja, ideal para creadores de contenido que viajan mucho.",positivo
+LG Gram Style,"El acabado tornasol de la carcasa es único y muy llamativo, aunque las huellas de las manos se quedan super marcadas.",neutral
+Acer Swift Go 14,"La cámara web de 720p integrada da una imagen espantosa; todo se ve lavado, pixelado y con ruido digital.",negativo
+LG Gram Pro 16,La ligereza de este equipo es una locura; te olvidas por completo de que lo traes en la mochila todo el día.,positivo
+MSI Stealth 14,"Una laptop compacta y sumamente potente, aunque la batería se drena por completo en un par de horas de uso.",neutral
+Razer Blade 14,Levanta temperaturas tan altas que el sistema entra en protección térmica y se apaga a mitad de mis partidas.,negativo
+Microsoft Surface Go 4,El tamaño es ideal para llevar a conferencias y tomar notas rápidas sin que te estorbe en los brazos.,positivo
+Framework Laptop 13,"Apoyo al cien por ciento el diseño reparable, pero el precio de los módulos individuales es algo elevado.",neutral
+Alienware m16 R2,El peso del equipo es una tortura para la espalda; sumando el cargador gigante es imposible de transportar diario.,negativo
+Acer Swift X 14,La combinación de un procesador eficiente y gráficos dedicados la hacen excelente para edición de video portátil.,positivo
+ASUS ROG Flow Z13,"Es una propuesta híbrida sumamente innovadora, pero el teclado magnético es incómodo si trabajas sobre las piernas.",neutral
+Dynabook Portege,El sensor de huellas digitales falla muchísimo; casi nunca desbloquea a la primera y tengo que usar el PIN.,negativo
+HP EliteBook 840,Las funciones de seguridad por hardware dan mucha tranquilidad y la pantalla tiene un excelente filtro de privacidad.,positivo
+Lenovo IdeaPad Flex 5,"Funciona de manera decente como equipo convertible escolar, pero las bisagras hacen crujidos raros al mes de uso.",neutral
+MSI Modern 15,La bisagra interna se rompió por completo con un uso normal en casa; ahora la pantalla no se sostiene sola.,negativo
+MacBook Pro 14 M4,La duración de la batería editando audio en el estudio es una locura; me olvido por completo de llevar el cargador.,positivo
+MacBook Air M4,"El incremento a 16GB de memoria RAM base es un gran acierto, pero los costos por subir el almacenamiento son abusivos.",neutral
+ASUS Vivobook 15,El teclado no cuenta con retroiluminación y las letras impresas se empezaron a borrar al segundo mes de uso diario.,negativo
+HP Spectre x360,La pantalla OLED tiene un contraste infinito; los colores se ven tan vivos que da gusto ver series en ella.,positivo
+HP EliteBook 840,"El rendimiento en multitarea y videollamadas es impecable, pero el audio de las bocinas suena muy plano.",neutral
+Dell G15 Gaming,"El chasis es tosco, pesado y utiliza plásticos de baja calidad que crujen al presionar el centro del teclado.",negativo
+Samsung Galaxy Book5 Pro,El ecosistema con los teléfonos de la marca funciona de lujo; pasas archivos y fotos de manera instantánea.,positivo
+Lenovo Legion Slim 5,"El rendimiento técnico es impecable, pero el acabado gris mate de la tapa se raya muy fácil con el cierre de la mochila.",neutral
+HP Envy x360,"La pantalla táctil empezó a registrar toques fantasma por toda la superficie, volviendo loco el cursor de Windows.",negativo
+Dell Latitude 7450,La construcción en fibra de carbono la hace muy resistente a golpes y el teclado es sumamente cómodo para oficina.,positivo
+ASUS Zenbook 14 OLED,"La calidad visual del panel es de lo mejor del mercado, pero el sistema de desbloqueo facial suele fallar con poca luz.",neutral
+Lenovo IdeaPad 3,El chasis de plástico se siente tan frágil que se dobla por completo al levantar la laptop con una sola mano.,negativo
+ASUS Zenbook Duo,"Trabajar con dos pantallas completas en cualquier lado duplica mi productividad, una joya de ingeniería.",positivo
+Acer Swift Edge 16,"Es impresionantemente delgada para sus 16 pulgadas, pero la duración de la batería deja mucho que deparar.",neutral
+ASUS Zenbook 14 OLED,"El molesto quemado de imagen apareció tras solo 4 meses de uso estático, una decepción total con el panel.",negativo
+MSI Prestige 16,La precisión de color de este panel es perfecta para diseño gráfico y el rendimiento en Adobe es brutal.,positivo
+Dell Vostro 3530,"Cumple perfectamente como equipo de batalla para el trabajo administrativo diario, aunque sus ángulos de visión son reducidos.",neutral
+HP EliteBook 840,El teclado es sumamente ruidoso y las teclas bailan un poco al escribir; no se siente como un equipo premium.,negativo
+Huawei MateBook D14,La carga rápida por USB-C es una maravilla; en media hora recuperas batería para varias horas de trabajo.,positivo
+Samsung Galaxy Book4 Ultra,"Ofrece una potencia gráfica de primer nivel y una pantalla hermosa, pero el ventilador emite un silbido agudo algo molesto.",neutral
+Lenovo Legion Slim 5,Sufre de pantallazos azules aleatorios constantes desde la última actualización de firmware y el soporte no ayuda.,negativo
+Acer Swift 3,El chasis de aluminio cepillado resiste muy bien los rayones y la laptop enciende en menos de 5 segundos.,positivo
+MSI Prestige 16,"Una excelente opción para creadores de contenido ligeros, aunque el trackpad detecta toques accidentales con la palma.",neutral
+Acer Spin 5,El lápiz óptico dejó de recargarse en su ranura interna de la nada y ahora toda la función táctil no me sirve.,negativo
+Microsoft Surface Laptop Go 3,"El diseño es sumamente compacto y ligero, ideal para llevar a la escuela sin que te pese nada en la mochila.",positivo
+Huawei MateBook X Pro,"La ingeniería y acabados del hardware son de primer nivel, pero la falta de centros de servicio locales da desconfianza.",neutral
+Dell Latitude 7450,La batería drena un 20% de su capacidad total durante las noches estando apagada; un fallo de energía inaceptable.,negativo
+Gigabyte Aero 16,"La calibración de color de fábrica ahorra muchísimo tiempo a los fotógrafos profesionales, el panel es increíble.",positivo
+Microsoft Surface Go 4,"Funciona excelente como un dispositivo secundario para revisar correos, pero se satura si abres muchas pestañas.",neutral
+MSI Pulse 15,"Los altavoces integrados son una basura; el audio suena metálico, sin cuerpo y peor que un teléfono de gama media.",negativo
+Alienware m16 R2,El teclado mecánico Cherry que incluye es una delicia táctil tanto para redactar textos como para jugar en competitivo.,positivo
+Gigabyte Aero 16,"El panel muestra imágenes espectaculares para edición, pero la distribución del teclado es algo extraña y cuesta acostumbrarse.",neutral
+MacBook Air M4,El almacenamiento de entrada es una burla absoluta por el precio; se llena por completo con el sistema y tres apps.,negativo
+HP Omen 16,El sistema de ventilación de doble entrada mantiene la laptop fresca incluso jugando títulos demandantes en verano.,positivo
+ASUS ROG Ally X,"Como consola portátil con poder de PC es genial, pero la interfaz de Windows 11 no se siente optimizada para controles.",neutral
+Samsung Galaxy Book4 Edge,Incompatibilidad absoluta con mis programas de simulación; este procesador ARM es un adorno inservible para profesionales.,negativo
+Dell Inspiron 16,La relación de aspecto de la pantalla es comodísima para leer PDFs largos y documentos de texto sin cansar la vista.,positivo
+Lenovo ThinkPad X1 Carbon,"Sigue manteniéndose como la laptop ejecutiva por excelencia, pero su precio sube cada año sin cambios justificables.",neutral
+Gigabyte G5,Levanta tanta temperatura al jugar que el plástico de la carcasa inferior comenzó a deformarse cerca de la ventilación.,negativo
+Acer Spin 3,El mecanismo de la bisagra se siente muy sólido y es ideal para poner la laptop en modo tienda y ver películas en la cama.,positivo
+HP Omen 16,"El rendimiento técnico y el enfriamiento son muy estables, pero el diseño estético de plástico negro se ve bastante genérico.",neutral
+ASUS Vivobook Go,El cable del cargador es de pésima calidad; se cuarteó y peló de los extremos a los pocos meses de uso escolar normal.,negativo
+ASUS Vivobook Pro 15,La pantalla OLED a 120Hz es un deleite visual y el procesador renderiza videos en 4K sin ningún esfuerzo.,positivo
+Acer Swift X 14,"Ofrece potencia gráfica decente en un cuerpo pequeño, pero la zona donde descansas las manos se calienta rápido.",neutral
+HP Omen 16,"El sensor de la tapa falla constantemente y la laptop piensa que está cerrada, apagando la pantalla a mitad de mi uso.",negativo
+Lenovo IdeaPad Gaming 3,"Por el precio que tiene, la tarjeta gráfica rinde excelente en juegos competitivos como Valorant y Counter-Strike.",positivo
+Lenovo IdeaPad Gaming 3,"Muy económica y rinde bien, pero la pantalla tiene una reproducción de color muy pobre para cualquier trabajo creativo.",neutral
+Lenovo IdeaPad Flex 5,La pintura del chasis es de muy baja calidad; comenzó a caerse y desteñirse con el simple sudor de mis manos.,negativo
+LG Gram Pro 16,La fluidez para trabajar en multitarea con bases de datos enormes es impecable y no pesa absolutamente nada.,positivo
+LG Gram Pro 16,"El rendimiento del procesador es muy fluido para oficina, pero el trackpad se siente algo esponjoso al hacer clic.",neutral
+Microsoft Surface Laptop Go 3,No incluir teclado retroiluminado en este rango de precio es una burla total al consumidor; cuesta ver de noche.,negativo
+MacBook Pro 16 M4 Max,"Es una bestia indomable de procesamiento, compila código y procesa datos masivos en una fracción de tiempo.",positivo
+MacBook Pro 16 M4 Max,"Es técnicamente perfecta en pantalla y poder, pero pesa lo suficiente como para que te canses de cargarla todo el día.",neutral
+Acer Predator Triton,El ruido de los ventiladores es un silbido agudo y penetrante que me causa dolor de cabeza tras media hora de juego.,negativo
+HP Spectre x360,Los acabados premium en corte de diamante son hermosos y la pantalla táctil es de las más precisas del mercado.,positivo
+HP Spectre x360,"Los accesorios incluidos en la caja son de gran calidad, pero la batería dura mucho menos si usas la pantalla a máxima resolución.",neutral
+Dell Inspiron 16 Plus,El trackpad tiene un retraso de respuesta notable; el cursor se mueve medio segundo después de desplazar el dedo.,negativo
+Lenovo ThinkPad L14,"La resistencia de grado militar se nota en cada esquina, es una laptop hecha para durar muchos años en el trabajo.",positivo
+Lenovo ThinkPad L14,"Muy resistente para el trabajo rudo y portátil, pero la pantalla base de 250 nits es casi imposible de ver bajo luz solar.",neutral
+MSI Prestige 14,La cámara web es espantosa; la resolución es tan baja que en las juntas de la oficina parezco un dibujo pixelado.,negativo
+Dell G15 Gaming,"El rediseño del sistema térmico fue un acierto total, mantiene los componentes en buenas temperaturas bajo estrés.",positivo
+Dell G15 Gaming,"El rendimiento en juegos es muy estable por su precio, pero el chasis es tosco y utiliza demasiado plástico.",neutral
+Huawei MateBook X Pro,El servicio posventa en mi región es terrible; llevo un mes esperando una refacción que nunca llega al centro oficial.,negativo
+ASUS ROG Zephyrus G16,La pantalla Nebula y el diseño delgado de aluminio la convierten en la laptop más atractiva que he tenido.,positivo
+ASUS ROG Zephyrus G16,"Diseño elegante que no grita ""gamer"", pero la memoria RAM viene soldada a la placa y no se puede ampliar en el futuro.",neutral
+LG Gram Pro 16,El sistema de enfriamiento es tan deficiente que el procesador baja su velocidad al mínimo por cualquier tarea pesada.,negativo
+HP Pavilion Plus 14,La batería rinde excelentes ocho horas de uso continuo en la universidad y el teclado es muy cómodo de usar.,positivo
+ASUS Vivobook S 15,"El teclado retroiluminado es cómodo para redactar, pero la luz se filtra por los lados de las teclas y distrae de noche.",neutral
+Razer Blade 18,"Por el precio de un auto usado esperas un ensamblaje perfecto, pero mi equipo vino descuadrado y cojea en la mesa.",negativo
+Lenovo LOQ 16,El rendimiento técnico en renderizado cumple de sobra y el teclado tiene una distribución excelente para el día a día.,positivo
+Lenovo LOQ 16,"Una opción sólida para presupuestos medios, aunque los altavoces suenan bastante bajo incluso configurados al máximo.",neutral
+ASUS ROG Flow X13,El conector propietario externo para la GPU es extremadamente frágil; se rompió al tercer uso y repararlo es carísimo.,negativo
+Razer Blade 15,La tasa de refresco y el tiempo de respuesta de la pantalla son perfectos para shooters competitivos.,positivo
+Razer Blade 15,"Estética impecable, minimalista y elegante, pero la fuente de poder se calienta tanto que quema al tocarla.",neutral
+Lenovo ThinkBook 14,El lector de tarjetas SD dejó de funcionar al mes y el soporte dice que es daño accidental para no repararlo.,negativo
+ASUS Vivobook 16,El formato de pantalla es comodísimo para leer artículos largos y programar sin forzar la vista.,positivo
+ASUS Vivobook 16,"Pantalla amplia y cómoda para leer, pero los materiales se sienten menos duraderos que en la línea Zenbook.",neutral
+HP Pavilion Plus,"La pantalla tiene un parpadeo constante cuando el brillo está bajo, es imposible trabajar sin que me duela la vista.",negativo
+Lenovo Yoga 9i,La calidad de construcción y la versatilidad de la bisagra hacen que valga cada centavo para diseño.,positivo
+Lenovo Yoga 9i,"La barra de sonido integrada suena genial, pero el mecanismo de rotación se siente un poco flojo tras meses de uso.",neutral
+ASUS ExpertBook,"Las teclas se borraron en menos de tres meses de uso de oficina, la calidad de impresión es lamentable.",negativo
+HP Elite Dragonfly,"Es la laptop de negocios más ligera y segura que he usado, la duración de la batería es sobresaliente.",positivo
+HP Elite Dragonfly,"Excelente para seguridad empresarial y muy ligera, pero el precio es alto comparado con una MacBook Pro.",neutral
+Dell Vostro 3530,"Es desesperadamente lenta incluso con el disco SSD, Windows tarda siglos en iniciar cada mañana.",negativo
+Acer Predator Triton,"El rendimiento gráfico en juegos de mundo abierto es una locura, mantiene FPS muy estables.",positivo
+Acer Predator Triton,"Es delgada para ser un equipo gaming, pero eso hace que los ventiladores tengan que girar siempre al máximo.",neutral
+Acer Swift Go 14,El chasis de aluminio se siente tan delgado que cruje si la levantas con una sola mano desde un borde.,negativo
+MSI Modern 14,Es sumamente compacta y perfecta para llevar a la universidad a diario sin que estorbe en la mochila.,positivo
+MSI Modern 14,"Diseño elegante y compacto, pero el rendimiento cae notablemente cuando se usa solo con la batería.",neutral
+MSI Katana 15,"La batería se descarga un 15% cada hora incluso cuando la laptop está suspendida, una gestión energética atroz.",negativo
+Dell XPS 16 (2026),"La potencia de procesamiento para renders 3D es absurda, ahorra horas de trabajo en proyectos pesados.",positivo
+Dell XPS 16 (2026),"La potencia es increíble para renderizado, pero el teclado con teclas pegadas requiere una curva de aprendizaje.",neutral
+MacBook Pro 14 M4,"El puerto de audífonos tiene estática constante, para un equipo de producción de audio es inaceptable.",negativo
+Framework Laptop 16,Me encanta la filosofía de poder reparar y actualizar absolutamente todo por mi propia cuenta.,positivo
+Framework Laptop 16,"La idea de los módulos es brillante, pero el ensamblaje final no se siente tan rígido como una laptop unibody.",neutral
+Microsoft Surface Pro 11,Se calienta tanto cargando que la pantalla baja el brillo al 20% y no te deja subirlo hasta que se enfríe.,negativo
+Samsung Galaxy Book5 Pro,La ligereza combinada con la pantalla AMOLED de última generación ofrece una experiencia de uso increíble.,positivo
+Samsung Galaxy Book5 Pro,"Muy ligera para su tamaño, pero el software preinstalado de Samsung ocupa demasiado espacio innecesario.",neutral
+Samsung Galaxy Book5,"El teclado tiene un recorrido tan corto que no sabes si realmente presionaste la tecla o no, es muy incómodo.",negativo
+ASUS ROG Flow X13,El concepto de laptop gamer ultraportátil convertible está perfectamente ejecutado en este equipo.,positivo
+ASUS ROG Flow X13,"Es un concepto 2 en 1 único para jugar y diseñar, pero la duración de la batería en modo tablet decepciona.",neutral
+Razer Blade 15,El pegamento de las gomas de la base se derritió por el calor y ahora la laptop se desliza por todo el escritorio.,negativo
+Lenovo ThinkPad P1,Es la workstation definitiva; el rendimiento con simulaciones de datos pesadas es simplemente impecable.,positivo
+Lenovo ThinkPad P1,"Una workstation muy capaz y robusta, pero el cargador propietario es enorme y difícil de conseguir si se rompe.",neutral
+Alienware x14 R2,"El centro de control de luces nunca guarda mis perfiles, tengo que configurarlo cada vez que la enciendo.",negativo
+HP Pavilion Aero,"Pesa menos de un kilo, lo que la hace la compañera ideal para viajar ligero sin perder potencia en la oficina.",positivo
+HP Pavilion Aero,"Pesa menos de un kilo lo cual es fantástico, pero el trackpad es pequeño y se siente algo inestable.",neutral
+HP Envy 17,"Es demasiado ruidosa para un equipo que no es gaming, parece que tiene un soplador de hojas por dentro.",negativo
+LG Gram SuperSlim,El grosor es mínimo y la pantalla OLED es un deleite visual para consumir contenido multimedia.,positivo
+LG Gram SuperSlim,"La delgadez es impactante, pero debido a eso el teclado tiene muy poco recorrido y cansa al escribir mucho.",neutral
+Lenovo Yoga 9i,"La pantalla táctil registra toques fantasma todo el tiempo, el cursor se vuelve loco y cierra mis ventanas.",negativo
+Acer Nitro 17,El espacio visual es enorme y la tasa de refresco a 165Hz hace que todo se mueva con gran suavidad.,positivo
+Acer Nitro 17,"Buena visibilidad por su gran tamaño, pero es tan grande que no cabe en compartimentos estándar de equipaje.",neutral
+Acer Nitro 17,"La resolución de la pantalla es muy baja para ese tamaño de 17 pulgadas, todo se ve pixelado y borroso.",negativo
+Gigabyte G5,La relación calidad-precio en componentes es excelente; obtuve gráficos dedicados por un presupuesto muy bajo.,positivo
+Gigabyte G5,"Los componentes internos son potentes, pero la pantalla tiene una fuga de luz notable en los bordes negros.",neutral
+ASUS ROG Strix G18,Vino con tres pixeles muertos y el servicio técnico dice que necesito tener cinco para que aplique la garantía.,negativo
+MacBook Pro 14 M4 Pro,El rendimiento del chip M4 Pro supera todo lo conocido; la edición en múltiples pistas de audio es instantánea.,positivo
+MacBook Pro 14 M4 Pro,"La potencia sobra para casi todo, pero Apple sigue siendo tacaña con el almacenamiento en el modelo de entrada.",neutral
+LG Gram SuperSlim,"La pantalla es tan delgada que se dobla con solo abrirla desde una esquina, da miedo que se rompa el panel.",negativo
+Huawei MateBook X Pro,La pantalla táctil y los gestos sobre el trackpad son intuitivos y facilitan el flujo de trabajo diario.,positivo
+Huawei MateBook X Pro,"El peso es ideal para viajes de negocios, pero la posición de la cámara web sigue siendo algo incómoda para el ángulo.",neutral
+Framework Laptop 13,"Las expansiones de USB se desconectan solas si mueves un poco la laptop, la conexión no es firme.",negativo
+Dynabook Tecra,"Es un equipo corporativo sumamente confiable y duradero, ideal para bases de datos masivas en la oficina.",positivo
+Dynabook Tecra,"Muy confiable para bases de datos y seguridad, pero el diseño estético se quedó estancado en la década pasada.",neutral
+Gigabyte Aero 16,"El sistema de audio es patético, mi teléfono suena más fuerte y con mejor calidad que esta laptop de diseño.",negativo
+HP Envy 17,"La pantalla es gigante y hermosa, perfecta para sustituir una computadora de escritorio en el hogar.",positivo
+HP Envy 17,"Pantalla enorme ideal para ver películas, pero el tamaño la hace muy difícil de manejar en aviones o trenes.",neutral
+Dynabook Tecra,"El teclado no es retroiluminado y por este precio es una estafa, además el diseño es de hace 15 años.",negativo
+Dell XPS 14 (2026),La pantalla OLED InfinityEdge ofrece una de las mejores experiencias visuales del mercado tecnológico actual.,positivo
+Dell XPS 14 (2026),"La pantalla OLED es espectacular, pero solo tener puertos USB-C es una decisión que sigue siendo molesta.",neutral
+HP Victus 16,"El puerto de carga está flojo desde el primer día, tengo que acomodar el cable con cuidado para que cargue.",negativo
+MacBook Air M4,El color medianoche tiene un acabado precioso y elegante que destaca a primera vista.,positivo
+MacBook Air M4,"El color medianoche es hermoso, pero es un imán de huellas dactilares y siempre parece estar sucia.",neutral
+MacBook Air M4,"El puerto USB-C del lado izquierdo dejó de reconocer dispositivos a los dos meses, reparación carísima.",negativo
+Lenovo LOQ 16,Es la mejor opción para presupuestos ajustados que quieren jugar a tasas de refresco altas y estables.,positivo
+ASUS Vivobook S 15,"La pantalla tiene buena resolución, pero el brillo máximo se queda algo corto en terrazas o exteriores.",neutral
+Lenovo Legion 7i,"La iluminación RGB de la base empezó a fallar y ahora parpadea en rojo sin razón, el software no lo arregla.",negativo
+Acer Swift X 14,El rendimiento gráfico en programas de renderizado es impecable para un equipo tan compacto.,positivo
+MSI Katana 15,"El teclado numérico es una gran adición para productividad, aunque el recorrido de las teclas es algo estándar.",neutral
+ASUS Vivobook 16,La bisagra es tan dura que tienes que usar las dos manos para abrirla o sientes que vas a partir el marco.,negativo
+Samsung Galaxy Book4 Edge,La velocidad para abrir aplicaciones cotidianas y herramientas de oficina es simplemente instantánea.,positivo
+ASUS ROG Zephyrus G16,"El sistema de audio suena nítido y con buenos bajos, aunque el chasis vibra un poco al volumen máximo.",neutral
+HP Omen Max 16,"El rendimiento cae a la mitad si no está conectada a la corriente, incluso con el plan de energía en máximo.",negativo
+HP Pavilion Plus 14,El ventilador mantiene las temperaturas estables y el rendimiento general en multitarea es muy fluido.,positivo
+Lenovo IdeaPad Gaming 3,"El teclado se siente bastante cómodo para escribir rápido, pero los plásticos del chasis crujen un poco.",neutral
+Dell XPS 16 (2026),"La superficie de cristal del reposamuñecas se mancha de grasa permanentemente, es imposible mantenerla limpia.",negativo
+Microsoft Surface Laptop Go 3,La pantalla táctil es muy fluida y el diseño general de la laptop es sumamente estético.,positivo
+Alienware m16 R2,"El rendimiento gráfico es impecable, pero la duración de la batería usándola para oficina es muy promedio.",neutral
+Acer Predator Helios,La fuente de poder hace un ruido eléctrico agudo muy molesto que se escucha en toda la habitación.,negativo
+Alienware m16 R2,La potencia bruta de procesamiento permite jugar y hacer streaming al mismo tiempo sin ninguna caída de FPS.,positivo
+Acer TravelMate P2,"Es una laptop cumplidora para el trabajo de oficina, aunque la cámara web integrada tiene resolución básica.",neutral
+Microsoft Surface Laptop 7,"La pantalla es un imán de reflejos, es imposible usarla en una oficina con luces led sin quedar ciego.",negativo
+LG Gram Pro 16,El espacio de trabajo que da la pantalla de 16 pulgadas ayuda muchísimo a revisar planos detallados.,positivo
+HP Spectre x360,"El diseño convertible es muy práctico, pero la transición de software de laptop a tablet a veces se traba.",neutral
+MSI Alpha 17,"El teclado se siente esponjoso y las teclas se quedan trabadas a veces, muy mala calidad de construcción.",negativo
+Lenovo ThinkPad L14,"El teclado es una maravilla ergonómica, perfecto para redactar informes largos sin cansar los dedos.",positivo
+Lenovo ThinkPad L14,"Es un equipo corporativo muy robusto, pero el diseño estético es bastante cuadrado y tradicional.",neutral
+Samsung Galaxy Book4 Pro,"El Wi-Fi tiene un alcance bajísimo, a dos habitaciones del router pierdo la señal por completo.",negativo
+Dell G15 Gaming,La autonomía de la batería ha mejorado bastante en navegación web comparado con la generación anterior.,positivo
+MacBook Air M4,"El rendimiento por watt es insuperable, pero la limitación de conectar solo dos monitores externos sigue ahí.",neutral
+Framework Laptop 16,"Los ventiladores emiten un sonido vibrante que indica un mal rodamiento de fábrica, control de calidad pobre.",negativo
+Lenovo Yoga 9i,La pantalla rota con una suavidad increíble y la fidelidad del color en el panel OLED es espectacular.,positivo
+Lenovo Yoga 9i,"La barra de sonido suena genial, pero el mecanismo de rotación se siente un poco flojo tras meses de uso.",neutral
+ASUS ROG Flow Z13,"La batería dura menos de una hora jugando, básicamente es una PC de escritorio con una pantalla pegada.",negativo
+Acer Predator Triton,La pantalla a alta tasa de refresco da una ventaja competitiva enorme en cualquier juego de disparos.,positivo
+Acer Predator Triton,"Es delgada para ser gaming, pero eso hace que los ventiladores tengan que girar al máximo y hagan mucho ruido.",neutral
+Lenovo ThinkPad P1,"Se calienta tanto bajo carga que el sistema se apaga por seguridad, no sirve para trabajos pesados largos.",negativo
+Microsoft Surface Pro 11,El nuevo procesador ARM le da una velocidad de arranque alucinante y la batería dura todo el día de trabajo.,positivo
+Microsoft Surface Pro 11,"El teclado Flex es muy cómodo, pero la conexión magnética a veces se suelta si no estás en una mesa plana.",neutral
+HP Pavilion Aero,"El trackpad es tan pequeño que navegar por la pantalla es frustrante, además de ser muy ruidoso al clic.",negativo
+MSI Modern 14,"El teclado es súper silencioso, ideal para trabajar de noche en la habitación sin despertar a nadie.",positivo
+MSI Modern 14,"Diseño elegante y compacto, pero el rendimiento cae notablemente cuando se usa solo con la batería.",neutral
+LG Gram Pro,"El audio por audífonos tiene un siseo constante, parece un problema de aislamiento en la placa base.",negativo
+Dell XPS 16 (2026),"La pantalla InfinityEdge casi no tiene marcos, se ve súper futurista y aprovecha al máximo el espacio.",positivo
+Dell XPS 16 (2026),"La potencia es increíble para renderizado, pero el teclado con teclas pegadas requiere una curva de aprendizaje.",neutral
+Acer Nitro V 15,La pantalla tiene un sangrado de luz en los bordes que arruina cualquier película o juego con escenas oscuras.,negativo
+Framework Laptop 16,La modularidad para cambiar puertos sobre la marcha según lo que necesites es la mejor idea del mercado.,positivo
+Framework Laptop 16,"La idea de los módulos es brillante, pero el ensamblaje final no se siente tan rígido como una laptop unibody.",neutral
+Gigabyte G5,El plástico del chasis se siente tan hueco que da la impresión de que se va a romper con cualquier golpe.,negativo
+Samsung Galaxy Book5 Pro,La integración con la tablet Samsung como segunda pantalla inalámbrica funciona de forma impecable.,positivo
+Samsung Galaxy Book5 Pro,"Muy ligera para su tamaño, pero el software preinstalado de Samsung ocupa demasiado espacio innecesario.",neutral
+MacBook Pro 16 M4 Max,"El sistema operativo se congela al usar monitores externos de otras marcas, un bug que Apple no ha resuelto.",negativo
+ASUS ROG Flow X13,El rendimiento gráfico combinado con la versatilidad del modo tablet la hacen única en su tipo.,positivo
+ASUS ROG Flow X13,"Es un concepto 2 en 1 único, pero la duración de la batería en modo tablet es bastante decepcionante.",neutral
+Huawei MateBook D14,"El ventilador empezó a raspar contra algo interno a los pocos días, tuve que devolverla por miedo a incendio.",negativo
+HP Pavilion Aero,No pesa absolutamente nada y la pantalla tiene un brillo excelente para trabajar cerca de ventanas.,positivo
+HP Pavilion Aero,"Pesa menos de un kilo lo cual es fantástico, pero el trackpad es pequeño y se siente algo inestable.",neutral
+MSI Modern 14,"La potencia de recepción de Bluetooth es pésima, mis audífonos se desconectan si muevo la cabeza.",negativo
+Dell Inspiron 15,El teclado numérico completo facilita enormemente el vaciado de datos y la contabilidad diaria.,positivo
+Dynabook Tecra,"Muy confiable para bases de datos, pero el diseño estético se quedó estancado en la década pasada.",neutral
+Dell Inspiron 15,"Se siente como una laptop de hace 8 años, pesada, lenta y con una pantalla que tiene colores horribles.",negativo

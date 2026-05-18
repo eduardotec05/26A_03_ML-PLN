@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de Sentimientos</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <h1>Análisis de Sentimientos</h1>
+    <p class="subtitle">Clasifica reseñas en español como positivo, negativo o neutral.</p>
+
+    <div class="tabs">
+        <button class="tab active" onclick="showMode('individual', this)">Reseña individual</button>
+        <button class="tab" onclick="showMode('batch', this)">Archivo de reseñas</button>
+    </div>
+
+    <!-- MODO INDIVIDUAL -->
+    <div id="mode-individual" class="mode">
+        <textarea id="review-text" placeholder="Escribe tu reseña aquí..."></textarea>
+        <button class="btn" onclick="analyzeIndividual()">Analizar</button>
+        <div id="individual-result" class="result hidden"></div>
+    </div>
+
+    <!-- MODO BATCH -->
+    <div id="mode-batch" class="mode hidden">
+        <div class="file-input-wrapper">
+            <label for="csv-file" class="file-label">📂 Seleccionar archivo CSV</label>
+            <input type="file" id="csv-file" accept=".csv" onchange="updateFileName(this)">
+            <span id="file-name" class="hint">Ningún archivo seleccionado — columna requerida: "texto"</span>
+        </div>
+        <button class="btn" onclick="analyzeBatch()">Analizar archivo</button>
+        <div id="batch-results" class="batch-results hidden">
+            <div class="summary-box">
+                <div class="chart-wrap">
+                    <canvas id="sentiment-chart"></canvas>
+                </div>
+                <div class="summary-stats" id="summary-stats"></div>
+            </div>
+            <table>
+                <thead>
+                    <tr><th>Reseña</th><th>Sentimiento</th><th>Confianza</th></tr>
+                </thead>
+                <tbody id="results-body"></tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script>
+    let chartInstance = null;
+
+    function showMode(mode, btn) {
+        document.querySelectorAll('.mode').forEach(m => m.classList.add('hidden'));
+        document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+        document.getElementById('mode-' + mode).classList.remove('hidden');
+        btn.classList.add('active');
+    }
+
+    function updateFileName(input) {
+        document.getElementById('file-name').textContent = input.files[0]?.name || 'Ningún archivo seleccionado';
+    }
+
+    async function analyzeIndividual() {
+        const texto = document.getElementById('review-text').value.trim();
+        if (!texto) return;
+        const btn = document.querySelector('#mode-individual .btn');
+        btn.textContent = 'Analizando...';
+        btn.disabled = true;
+
+        try {
+            const res = await fetch('/predict', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({texto})
+            });
+            const data = await res.json();
+            const div = document.getElementById('individual-result');
+            div.className = `result ${data.etiqueta}`;
+            div.innerHTML = `
+                <span class="label">${data.etiqueta.toUpperCase()}</span>
+                <span class="confidence">${(data.confianza * 100).toFixed(1)}% de confianza</span>
+            `;
+        } finally {
+            btn.textContent = 'Analizar';
+            btn.disabled = false;
+        }
+    }
+
+    async function analyzeBatch() {
+        const fileInput = document.getElementById('csv-file');
+        if (!fileInput.files.length) { alert('Selecciona un archivo CSV primero.'); return; }
+        const btn = document.querySelector('#mode-batch .btn');
+        btn.textContent = 'Procesando...';
+        btn.disabled = true;
+
+        try {
+            const formData = new FormData();
+            formData.append('file', fileInput.files[0]);
+            const res = await fetch('/predict/batch', {method: 'POST', body: formData});
+            if (!res.ok) {
+                const err = await res.json();
+                alert('Error: ' + err.detail);
+                return;
+            }
+            const data = await res.json();
+            renderBatchResults(data);
+        } finally {
+            btn.textContent = 'Analizar archivo';
+            btn.disabled = false;
+        }
+    }
+
+    function renderBatchResults(data) {
+        const container = document.getElementById('batch-results');
+        container.classList.remove('hidden');
+
+        const tbody = document.getElementById('results-body');
+        tbody.innerHTML = data.resultados.map(r => `
+            <tr class="${r.etiqueta}">
+                <td>${escapeHtml(r.texto)}</td>
+                <td><span class="badge ${r.etiqueta}">${r.etiqueta.toUpperCase()}</span></td>
+                <td>${(r.confianza * 100).toFixed(1)}%</td>
+            </tr>
+        `).join('');
+
+        const total = data.resultados.length;
+        const r = data.resumen;
+        document.getElementById('summary-stats').innerHTML = `
+            <div style="font-weight:600;margin-bottom:4px;">Total: ${total} reseñas</div>
+            ${['positivo','negativo','neutral'].map(k => `
+            <div class="stat-row">
+                <span class="stat-dot ${k}"></span>
+                <span class="stat-pct">${r[k]}%</span>
+                <span>${k.charAt(0).toUpperCase()+k.slice(1)}</span>
+            </div>`).join('')}
+        `;
+
+        if (chartInstance) chartInstance.destroy();
+        const ctx = document.getElementById('sentiment-chart').getContext('2d');
+        chartInstance = new Chart(ctx, {
+            type: 'pie',
+            data: {
+                labels: ['Positivo', 'Negativo', 'Neutral'],
+                datasets: [{
+                    data: [r.positivo, r.negativo, r.neutral],
+                    backgroundColor: ['#4caf50', '#f44336', '#9e9e9e'],
+                    borderWidth: 2,
+                    borderColor: '#fff'
+                }]
+            },
+            options: {
+                plugins: { legend: { display: false } },
+                animation: { duration: 500 }
+            }
+        });
+    }
+
+    function escapeHtml(str) {
+        return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+    }
+</script>
+</body>
+</html>
