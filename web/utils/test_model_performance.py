@@ -7,7 +7,7 @@ import os
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from preprocessor import preprocess
 
-MODEL_PATH = Path(__file__).resolve().parent.parent / "model" / "sentiment_model.pkl"
+MODEL_PATH = Path(__file__).resolve().parent.parent / "models" / "sentiment_model.pkl"
 
 def load_model():
     try:

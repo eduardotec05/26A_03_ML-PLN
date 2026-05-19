@@ -4,7 +4,7 @@ import pandas as pd
 from pathlib import Path
 
 def analyze_features():
-    model_path = Path(__file__).resolve().parent.parent / "model" / "sentiment_model.pkl"
+    model_path = Path(__file__).resolve().parent.parent / "models" / "sentiment_model.pkl"
     with open(model_path, "rb") as f:
         pipeline = pickle.load(f)
     
