@@ -39,6 +39,11 @@ def _manejar_negaciones(tokens: list) -> list:
 
 
 def preprocess(text: str) -> str:
+    """
+    Esta es la función principal que junta todo. Agarra el texto, lo pasa a minúsculas,
+    le quita puntuación, borra palabras de relleno (stopwords) y hace el manejo de negaciones.
+    Regresa el string limpio y listo para usar.
+    """
     text = _normalizar(text.lower())
     text = re.sub(r"[^\w\s]", "", text)
     tokens = [t for t in text.split() if t not in _STOP_WORDS]

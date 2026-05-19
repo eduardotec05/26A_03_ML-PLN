@@ -1,9 +1,18 @@
+"""
+Script para revisar qué palabras considera importantes el modelo
+es decir si algo es positivo, negativo o neutral.
+"""
+
 import pickle
 import numpy as np
 import pandas as pd
 from pathlib import Path
 
 def analyze_features():
+    """
+    Carga el modelo y saca el top 20 de palabras clave por categoría.
+    Usa las probabilidades del Naive Bayes para ver cuáles pesan más.
+    """
     model_path = Path(__file__).resolve().parent.parent / "models" / "sentiment_model.pkl"
     with open(model_path, "rb") as f:
         pipeline = pickle.load(f)
